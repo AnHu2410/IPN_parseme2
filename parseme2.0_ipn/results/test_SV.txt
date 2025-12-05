@@ -88,121 +88,7 @@ Hitchcocks filmer innehåller ibland rollkaraktärer som kämpar med sina förh�
 De islamiska medborgare som har bosatt sig sedan början av 1960-talet emigrerade i huvudsak från Turkiet .	bosatt sig; 6,7 | i huvudsak; 13,14
 Hong Kongs regering , som leds av Beijing-vänliga lagstiftare , har ansett att paret inte bör tillträda posten .	tillträda; 17
 Ett koldrivet kraftverk i Badarpur , sydöstra Dehli , kommer att stängas av i 10 dagar , tillsammans med dieselgeneratorer i staden .	stängas av; 12,13 | tillsammans med; 18,19
-Förstörelse av livsmiljöer ökar storligen ett områdes sårbarhet mot naturkatastrofer som översvämningar och torka , missväxt , sjukdomsspridning och vattenförorening .	Okay, let's tackle this query. The user wants me to identify all multiple-word expressions (MWEs) in the given sentence. The sentence is split into words by newlines, so first I need to parse each line as a token. Let me list them out with their indices to keep track. The words are:
-
-1 Förstörelse
-2 av
-3 livsmiljöer
-4 ökar
-5 storligen
-6 ett
-7 områdes
-8 sårbarhet
-9 mot
-10 naturkatastrofer
-11 som
-12 översvämningar
-13 och
-14 torka
-15 ,
-16 missväxt
-17 ,
-18 sjukdomsspridning
-19 och
-20 vattenförorening
-21 .
-
-Now, applying the MWE criteria. The first condition is that the expression consists of multiple words that are always realized by the same lexemes. The individual lexemes cannot be replaced by synonyms without distorting the meaning of the expression as a whole or violating language conventions. The second condition is that it displays semantic, lexical, or syntactic idiomaticity. The third condition is that it is not a named entity.
-
-Looking at the words, let's check for possible MWEs. 
-
-"livsmiljöer" is a compound noun, but it's a single word in Swedish, so not an MWE. "sjukdomsspridning" is also a single word, a compound. "vattenförorening" is another compound. The rest are individual words. Let's check for multi-word expressions. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenförorening" is a multi-word expression. It consists of the words "vatten" and "förorening", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (water pollution) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"sjukdomsspridning" is a multi-word expression. It consists of the words "sjukdom" and "spridning", which are always realized by the same lexemes. The expression displays semantic idiomaticity, as the meaning of the expression as a whole (the spread of disease) is not entirely compositional. It cannot be replaced by a synonymous expression without changing the meaning. It also meets the third condition, as it is not a named entity. 
-
-"vattenfö
+Förstörelse av livsmiljöer ökar storligen ett områdes sårbarhet mot naturkatastrofer som översvämningar och torka , missväxt , sjukdomsspridning och vattenförorening .	None
 Blindleia är en av skär skyddad vattenled som börjar nära Kristiansand i södra Norge och fortsätter förbi Lillesand .	None
 Emellertid expanderade de inte förrän skepp som var stora nog för att korsa havet hade byggts .	None
 Kesha och Pebe skrev låten ” Stephen ” tillsammans när Kesha var 16 , Kesha letade sedan rätt på David Gamson , en producent hon beundrade , från Scritti Politti som gick med på att producera låten .	letade rätt på; 16,17,18 | gick med på; 32,33,34
@@ -231,15 +117,7 @@ Jag förklarar de första internationella Olympiska spelen avslutade .	Olympiska
 Ett exempel på en ökenö skulle vara de små öarna utanför kusten av Baja California , Mexiko .	None
 Men utmaningar , och de sånger som handlar om dem , lägger till ett sammankopplande , spårbart nervsystem till den slingrande massan av gryniga videoslingor .	lägger till; 12,13
 Armén presterade väl i strid mot Kuba .	presterade väl; 2,3
-1987 utropades till ” flodens år ” av Brisbanes dåvarande överborgmästare , Sallyanne Atkinson .	Okay, let's tackle this query. The user wants me to identify all multiple-word expressions (MWEs) in the given sentence. The sentence is split into words by newlines, and each word is tokenized. My task is to check each possible sequence of words to see if it meets the MWE criteria.
-
-First, I'll recall the MWE definition provided. The three conditions are: 1) The expression consists of multiple words that are always realized by the same lexemes. The individual lexemes cannot be replaced by synonyms without distorting the meaning of the expression as a whole or violating language conventions. 2) It displays semantic, lexical, or syntactic idiomaticity. Semantic idiomaticity occurs when the meaning of an expression cannot be explicitly derived from its components. Lexical idiomaticity occurs when one or more components of an expression are not used as stand-alone words in standard English. Syntactic idiomaticity occurs when the grammar of an expression cannot be derived directly from that of its components. For example, semantically idiomatic MWEs include 'break up', the lexically idiomatic include 'to and fro', and syntactically idiomatic MWEs include 'long time no see'. 3) It is not a multi-word named entity, i.e., a specific name of a person, facility, etc.
-
-Now, looking at the sentence: 1987 utropades till ” flodens år ” av Brisbanes dåvarande överborgmästare , Sallyanne Atkinson . 
-
-Let's go through each possible sequence. The words are: 1: 1987 2: utropades 3: till 4: ” 5: flodens 6: år 7: ” 8: av 9: Brisbanes 10: dåvarande 11: överborgmästare 12: , 13: Sallyanne 14: Atkinson 15: . 
-
-First, check for possible MWEs. Let's look at each possible sequence. The word "utropades" is a verb. The sequence "utropades till" could be a verb phrase. However, "utropades" is a verb meaning "was proclaimed" or "was declared", and "till" is a preposition meaning "to". The combination "utropades till" is a verb + preposition construction that is similar to English "was declared as" or "was appointed as". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "flodens år" is a noun phrase. "Flodens" is a possessive form of "flod" (river), and "år" is "year". The phrase "flodens år" could be a title or a specific term, but it's not a fixed expression. It doesn't display idiomaticity, so it doesn't meet condition 2. The sequence "dåvarande överborgmästare" is a compound noun. "Dåvarande" is an adjective meaning "then-current" or "at that time", and "överborgmästare" is a noun meaning "mayor". The combination is a standard noun phrase, not an MWE. The sequence "Brisbanes dåvarande överborgmästare" is a noun phrase. "Brisbanes" is a possessive form, "dåvarande" is an adjective, and "överborgmästare" is a noun. The phrase is a standard noun phrase, not an MWE. The sequence "utropades till flodens år" is a verb phrase. The verb "utropades" is followed by the preposition "till" and the noun phrase "flodens år". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "av Brisbanes dåvarande överborgmästare" is a prepositional phrase. The preposition "av" is followed by a noun phrase. The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "Sallyanne Atkinson" is a proper noun, a person's name. It is a named entity, so it is excluded by condition 3. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överbombmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE. The sequence "utropades till flodens år av Brisbanes dåvarande överborgmästare" is a verb phrase. The verb "utropades" is followed by the preposition "till", the noun phrase "flodens år", and the prepositional phrase "av Brisbanes dåvarande överborgmästare". The meaning is not idiosyncratic, as it can be derived from the individual words. The lexemes can be replaced by synonyms without changing the meaning, so it does not meet condition 1. Therefore, it's not an MWE
+1987 utropades till ” flodens år ” av Brisbanes dåvarande överborgmästare , Sallyanne Atkinson .	None
 Som många jag känner har jag tillbringat de senaste månaderna med att sitta uppe sent och i skräck läsa opinionsundersökningar .	sitta upp; 13,14
 Uttryckt på ett annat sätt : unga män ( som utgör den stora majoriteten av stridande i inbördeskrig ) är mindre troliga att gå med i en revolt om de får utbildning eller har en trygg lön , och rimligen kan anta att de kommer att ha framgång i framtiden .	Uttryckt på ett annat sätt; 1,2,3,4,5 | kommer att ha; 45,46,47 | kommer att ha framgång; 45,46,47,48
 Tre markeringar lokaliserar soluppgången vid sommar- och vintersolstånden och de två dagjämningarna .	soluppgången; 4 | vintersolstånden; 8 | dagjämningarna; 12
@@ -295,3 +173,600 @@ Händelsen var känd i Paris och orsakade mer upprördhet i en stämning som red
 Efter att det stod klart att det Osmanska imperiet skulle förlora hela Makedonien och dess territoriella förbindelse med Albanien förstod stormakterna att de behövde ändra sitt beslut .	Efter att; 1,2 | stod klart; 4,5 | förlora förbindelse; 11,17 | ändra beslut; 25,27
 Dag tre var jag tillbaka på EMicro .	None
 Tillräckligt många av dem i ett hårt omtvistat område kommer att leda till kaos på valdagen .	leda till; 12,13 | på valdagen; 15,16
+Det finns många förhistoriska artefakter , inräknat flera olika resta stenar och dösar .	inräknat; 7
+Han skulle också vilja se större övervaknings- och undersökningsbefogenheter för Real Estate Council of Ontario ( RECO ) som reglerar mäklare i provinsen .	övervaknings-undersökningsbefogenheter; 7,8,9
+Han anmärkte också att ” förekomsten av ett sådant dokument kunde leda till konsekvenser som är lika troliga som de är oacceptabla ” .	leda till; 12,13
+De aktuella arresteringarna är ” en fortsättning på fifflet mot oss ” , sade Dündar .	en fortsättning på; 5,6,7
+En F1-biljett ger tillträde till konserten samma dag .	ger tillträde; 3,4
+Betoning , skarp ironi , rättframma antydningar och andra väl använda verbala knep passar in i parlamentarisk talarkonst , men att peka finger och slapstickkomedi gör det inte .	peka finger; 22,23
+Pengarna som investeras i Premieobligationer , och i andra National Savings & Investments-konton , används för att hjälpa till att finansiera statliga utgifter .	hjälpa till; 18,19
+Kostnaden kommer att ändras varje månad och priset förväntas stiga under vintern allt eftersom användningen ökar .	allt eftersom; 13,14
+Det senare datumet kan bara ha infallit på en fredag om en undantagsmässig inskottsmånad införts det året , men detta gillades av Newton .	ha infallit; 6,7 | införts det år; 15,16,17 | av Newton; 22,23
+Cheferna erhåller också så kallad ” prestationslön ” för att uppfylla eller överträffa förväntningar , och delar en pott på 1,5 miljoner dollar mellan sig , eller en uppskattad summa på 15 000 dollar i genomsnitt .	så kallad; 4,5 | för att; 9,10 | eller överträffa; 12,13 | en pott; 18,19 | i genomsnitt; 35,36
+Han står ensam framför publiken och , i slutändan , måste han ta fram det bästa hos sig själv för att få publiken att skratta .	ta fram; 13,14
+Sen finns det så kallade sanna historier som läggs upp i en serie med meningsfulla bilder med text som löper under dem .	läggs upp; 9,10
+Han återhämtade sig och skrevs ut från sjukhuset 11 april , vilket gjorde honom till första sittande president att överleva att bli skjuten i ett lönnmordsförsök .	återhämtade sig; 2,3 | skrevs ut; 5,6 | lönnmordsförsök; 26
+Dussintals FSLN-anhängare firar redan segern på Plaza de las Victorias .	firar segern; 3,5
+Polisen i B.C. sade tidigare att Klein inte verkade ha något tidigare brottsregister och släppte ut vaga detaljer om hans senaste vistelseorter .	släppte ut; 15,16
+Wright föddes i Poole , Dorset , men växte huvudsakligen upp i Wells , Somerset .	växte upp; 9,11
+I utbyte kommer Uber få en investering på en miljard dollar och en plats i styrelsen för det kinesiska företaget .	None
+Par bluffar sig in i nordkoreansk golfturnering , lyder Brisbanes nionyheter .	bluffar sig in; 2,3,4
+Historikern David Crouch menar att Stephen gav upp utmaningen vid denna tid för att fokusera på andra problem .	gav upp; 7,8
+För Kerber markerar säsongsavslutningen icke desto mindre slutet på ett otroligt år .	icke desto mindre; 5,6,7
+Den norra delen av Kaukasus är känd som Nordkaukasus och den södra delen känd som Transkaukasus .	Nordkaukasus; 9 | Transkaukasus; 16
+Vad än reglerna var slutade ofta striderna med att en av hingstarna dog .	Vad ännu; 1,2 | en av; 10,11
+För att komma bort från alltsammans bodde Remis i Schweiz större delen av sommaren 1947 .	komma bort; 3,4 | större delen; 11,12
+Troligtvis är den mest välkända personen från kopparåldern Ötzi , den frusna mumie som levde under 3300 f.Kr.	f.Kr.; 18
+1928 uppfördes en golfbana på 90 hektar i den nordöstra delen av parken , intill kapplöpningsbanan .	None
+Investerare säljer statsobligationer , med amerikanska och australiensiska obligationer som de som känner av den hårdaste smällen .	känner av; 13,14
+Flera antika civilisationer uppkom runt Medelhavets kuster och influerades storligen av sin närhet till havet .	None
+Stephen Wheeler , redaktören , drev Kipling hårt men Kiplings behov av att skriva var ohejdbart .	behov av; 11,12
+Aktuella landvinningsprojekt inkluderar en utvidgning av distriktet Fontvielle .	None
+1563 hade Venedigs befolkning sjunkit till runt 168 000 personer .	None
+Norra Algeriet är i den tempererade zonen och åtnjuter ett milt medelhavsklimat .	None
+Den här gången nådde det honom , men han vägrade att tro att hon inte längre ville vara gift med honom .	Den här gången; 1,2,3
+Nedgrävd 100 meter ( 328 fot ) under marken är Pyongyang Metro ett av de djupaste pendlarsystemen i världen .	under marken; 8,9 | ett av de djupaste pendlarsystemen; 13,14,15,16,17
+" 1856 bröt det Andra opiumkriget ut ; kineserna besegrades igen och tvingades till villkoren i Tientsinfördraget 1858 och Pekingkonventionen 1860 . "	bröt ut; 2,6 | Tientsinfördraget; 16 | Pekingkonventionen; 19
+Våren 1948 skrev den belgiske konstnären i hopp om att bearbeta Tintin för film ett brev till Walt Disney , där han förgäves bad om hans stöd .	i hopp om; 7,8,9 | bad om; 24, 25
+Hans officiella biografi hävdar också att Kim komponerade sex operor och tycker om att sätta upp utstuderade musikaler .	sätta upp; 14,15
+Isner , som presterade en del av sin bästa tennis då han utjämnade allt i ett set och tvingade fram ett avgörande , gav också sin hyllning .	utjämnade allt i ett set; 13,14,15,16,17 | tvingade fram; 19,20
+Hennes hals skjuter fram i en åder-framhävande konfrontation , hennes händer skakar .	skjuter fram; 3,4
+Kollapsen av och ingripandet i dussintals banker leder till en kapitalflykt som får företag att gå i konkurs .	leder till; 8,9 | gå i konkurs; 16,17,18
+Skriftkunnigheten hade gått förlorad och den mykenska skriften glömts bort , men grekerna tog i bruk det feniciska alfabetet , och förändrade det för att skapa det grekiska alfabetet .	tog i bruk; 14,15,16 | för att skapa; 24,25,26
+Röstning har , i terrorns jargong , blivit det nya mjuka målet .	None
+På tisdag kan Amerikas förenta stater välja den första kvinnliga presidenten i dess historia .	förenta stater; 5,6
+Hitlåten är ” Geronimo ” av Sheppard .	Hitlåten; 1
+" Spanien hade kastat ut sin Sefardiska befolkning 1492 ; många av dessa spanska judar lämnade Spanien för Portugal men blev så småningom till måltavlor där med . "	kastat ut; 4,5 | så småningom; 22,23
+På 1350-talet var kung Gongmin till sist fri att reformera Goryeos regering när Yuan-dynastin började förfalla .	till sist; 6,7
+Martin har fortfarande två böcker kvar att avsluta i sin hyllade serie , vilka i nuläget har namnen ” The Winds of Winter ” och ” A Dream of Spring ” .	har kvar; 1,5 | i nuläget; 14,15 | avsluta i; 7,8
+1072 skickades Shen för att ha tillsyn över Wangs program för att utvärdera uppbyggnaden av slam i Bian-kanalen utanför huvudstaden .	för att; 3,4 | ha tillsyn över; 6,7,8
+Namnet ” Karibien ” härleds till kariberna , en av de dominerande inhemska amerikanska grupperna i regionen vid tiden för kontakten med européerna vid slutet av 1400-talet .	vid tiden; 18,19 | vid slutet; 24,25
+Enligt regissörens egen beräkning har han till dags dato gjort åtta långfilmer .	till dags dato; 7,8,9
+Detalj- och partihandel expanderade då shoppare förblev positiva , och konsumenttjänsteföretag växte även de .	partihandel; 3
+Dareios högt skattade befälhavare Megabazus hade ansvaret för att fullborda erövringen i Balkan .	fullborda erövringen; 10,11
+Men som ett avbrott från sin tidigare retorik om att inskränka invandring , tillkännagav den republikanske kandidaten att han som president skulle tillåta ” kolossala mängder ” lagliga invandrare baserat på ett ” förtjänstsystem ” .	tillkännagav; 14 | invandring; 12 | baserat; 30
+2011 utnämndes Blunt till ambassadörska för den nya Yves Saint Laurent-doften , Opium .	ambassadörska; 5
+Ford T utropades till den mest inflytelserika bilen under 1900-talet vid de internationella Car of the Century-utmärkelserna .	utropades till; 3,4 | Car of the Century; 14,15,16,17
+De nederländska studenterna har ännu inte bestämt om de kommer att kommersialisera sin elektriska motorcykel .	bestämt om; 6,7 | kom kommer att; 9,10
+Man förväntar sig en knuff uppåt från den blomstrande fastighetsmarknaden och ökande federala utgifter .	förväntar sig; 2,3
+I korrespondens med Woods via e-post försökte jag mig på att forska fram ett etymon .	försökte mig på; 7,8,9 | forska fram; 12,13
+Guiden är problematisk , för det första eftersom den har tagits fram ” i ett sammanhang av undantagstillstånd ” .	tagits fram; 10,11
+Hans mer ovanliga hyllningar inkluderar global ambassadör för New York City Health and Hospitals Corporation , och en plats vid Harvard Business School .	None
+Och de måste hälsas med ett öppet sinnelag och klart tankesätt för de utgör den nya generationen av skönhet och hopp .	sinnelag; 7,8 | tankesätt; 10,11
+Vi kommer att utvärdera huruvida och hur vi ska fortsätta till nästa del .	huruvida; 5 | fortsätta till; 10,11 | nästa del; 12,13
+1955 började Mishima träna med vikter och hans träningsrutin med tre pass i veckan avbröts inte under de sista 15 åren av hans liv .	None
+Men då kritiken mot Clinton som presidenthustru blev mer bitande , blev Karel mer medkännande .	mer medkännande; 14,15
+Det är exceptionellt rikt på mineraler , innehåller stora fyndigheter av guld , diamanter , och malm av mangan , bly , zink , nickel , kobolt och molybden .	rikt på; 4,5 | innehåller fyndigheter av; 8,10,11 | malm av; 17,18
+2009 hade den totala försäljningen av The Power of Now och A New Earth in North America uppskattats till tre miljoner respektive fem miljoner kopior .	uppskattats till; 18,19
+Efter att ha beslutat sig för att ägna sig åt teater skrev Winstone in sig vid Corona Stage Academy i Hammersmith .	ha beslutat sig; 3,4,5 | ägna sig åt; 8,9,10 | skriv in sig; 12,14,15
+Men utan ett rättsligt ramverk , och med marijuanans gräsrotsursprung som humör-ändrande folkmedicin står företagen och gissar .	utan ett rättsligt ramverk; 2,3,4,5 | står gissar; 14,17
+1992 togs den tidigare dockteaterns mark , som hade lämnats till kommunen , över av spelarna och de anställda .	togs över; 2,14 | lämnats över; 10,14 | lämnats till; 10,11
+Nyheten om reträtten kom som en chock för den danska allmänna opinionen som hade ansett att Danevirke var ointagligt , och general de Meza entledigades raskt från sitt befäl .	var ointagligt; 18,19 | entledigades; 25
+Fler personer skulle finna flygplats-wifi mer användbart än att kunna skicka e-post på ett flygplan .	flygplats-wifi; 5
+Och nu är han även världsmästare .	None
+I Thessalien besegrade han sina fiender och vid år 352 hade han fast kontroll över denna region .	fast kontroll; 13,14
+Hon erbjöds flera manus , TV-reklamer och scenprojekt , men inget fångade hennes intresse .	fångade intresse; 12,14
+Reagan trodde att Gud hade räddat hans liv så att han kunde fortsätta för att uppfylla ett större syfte .	uppfylla ett syfte; 16,17,19
+Minst 330 000 personer , inklusive 10 000 tekniker , var inblandade .	var inblandade; 9,10
+Sydafrika är nästan bortom återvändo och vi måste kunna matcha deras längtan .	bortom återvändo; 4,5
+Samtidigt gynnade ytterligare styrning av Nilen bebyggelse inom ön Gezira och längs stadens flodbankar .	Samtidigt gynnade; 1,2 | ytterligare styrning; 3,4 | inom ön; 8,9 | längs stadens flodbankar; 12,13,14
+Yas Marina Circuits hemsida har exakta tider .	hemsida; 4
+Danevirke har förblivit i tysk ägo sedan dess .	förblivit i ägo; 3,4,6 | sedan dess; 7,8
+Det skiljer sig från den västra delen av landet i det att dess framträdande topografiska drag inte går parallellt med kusten .	skiljer sig; 2,3 | i det att; 10,11,12
+Den innehåller en liten lagun som nästan har torkat ut .	torkat ut; 9,10
+Detta betyder att de inte har tjänat på den ökning som sterlingens fall har orsakat hos tillgångar utomlands .	tjänat på; 7,8
+Dessa är inte särskilt populära på grund av de ofta avlägsna och väglösa platserna .	på grund av; 5,6,7
+Men Kinas växande medelklass har varit ovanligt högljudd med sina klagomål över giftig luft i städer som Beijing som kan uppleva dag efter dag med lungtilltäppande smog .	ovannormalt högljudd; 7,8 | dag efter dag; 22,23,24 | lungtilltäppande smog; 26,27
+Rimlighetsstudien uppskattar att det skulle ta passagerare ungefär fyra minuter att korsa Potomacfloden med gondolen .	ta minuter att; 5,9,10
+Amazon har blivit det fjärde amerikanska företaget med det högsta börsvärdet , överträffande ExxonMobil .	None
+Alkoholhaltiga drycker som öl , mjöd , bjórr ( ett starkt fruktvin ) och , för de rika , importerat vin serverades .	fruktvin; 12
+Med befolkningstillväxten skapades nya inhemska kvarter .	befolkningstillväxten; 2 | inhemska kvarter; 5,6
+Vid 1340 hade Kairo en befolkning på nästan en halv miljon , vilket gjorde den till den största staden väster om Kina .	None
+Lamarrs tidigaste uppfinningar inkluderar ett förbättrat trafikljus och en tablett som löses upp i vatten för att bilda en kolsyrad dryck .	löses upp; 12,13
+Två australiensare , som enligt eget medgivande är usla golfare , bluffade sig in i en förstklassig golfturnering i Nordkorea .	bluffade sig in; 12,13,14
+Efter upptäckten av Amerika av Christofer Columbus 1492 tillämpades den spanska termen Antillas på landen , och stammande från det blev ” Antillernas hav ” ett vanligt alternativt namn för ” Karibiska havet ” i olika europeiska språk .	ett vanligt alternativt namn; 26,27,28,29 | Karibiska havet; 32,33
+Denna konvention är bara något avslappnad i modern tid och nu är det fortfarande inte tillrådligt att mellan vänner använda förnamnet , men användning av familjenamnet är fortfarande vanligt .	None
+En investerare med genomsnittlig tur och 10 000 pund i obligationer skulle kunna räkna med att erhålla 125 pund i vinster varje år .	räkna med; 14,15 | i vinster; 20,21 | varje år; 22,23
+Efter att ha åtnjutit en karriärtopp hemma i Australien återvände Geyer för att bo i Los Angeles 1984 för att koncentrera sig på att slå sig in på musikscenen där .	åtnjutit; 4 | slå sig in; 25,26,27
+Pedro Sánchez , liksom många andra socialister , sade i programmet Évole att Spanien är en nation av nationer .	en nation av nationer; 16,17,18,19
+Världen – och i förlängningen Storbritannien – står inför en brist på personer med de färdigheter som krävs för att ordna ett effektivt försvar .	i förlängningen; 4,5 | står inför; 8,9 | ordna ett; 21,22
+Fort byggdes även i de äldre delarna av Nya Frankrike som inte ännu hade sett några bosättningar .	inte ännu; 12,13
+Med en varning om att NHS nu var under ” enormt tryck ” bad han allmänheten att ta mer ansvar för sin egen hälsa .	ta ansvar; 18,20
+Ingripandet är möjligen det mest långtgående som Beijing gjort sedan överlämnandet av Hong Kong från Storbritannien 1997 .	överlämnandet; 11
+En FN-rapport över nationella planer för att minska kolet säger att de är långt under de nivåer som behövs för att hålla ökningen av den globala temperaturen under 2 ° C .	None
+5 000 dollar per person , det högsta belopp som tillåts .	per person; 4,5
+Den skivan gjorde det möjligt för Rona att skapa laboratorieprover av polonium , vilka användes i mycket av institutets efterföljande forskning .	i mycket av; 16,17,18
+Den höga höjden hjälper till att svalka klimatet , som annars skulle vara mycket varmt .	hjälper till; 4,5 | ska vara; 12,13
+" Censuren skaffade undan alla oönskade åsikter ; deltagande i det offentliga livet hade blivit i praktiken omöjligt . "	skaffade undan; 3,4
+Graftons regering upplöstes 1770 vilket lät Torypartiet under ledning av lord North återta makten .	återta makten; 13,14
+Det kommer att ske protester och andra saker , det är redan planerat alltihop , berättade oppositionen för El Mundo .	kommer att ske; 2,3,4
+Vi ser många , många länder , och särskilt stora nya utsläppare som Brasilien , Sydafrika , Indien och Kina som stiger fram när det kommer till att spela en roll i att minska utsläppen , sade Guilbeault .	stiga fram; 22,23 | komma till; 26,27
+Shenzhens trafikpolis har valt okonventionella straff förut .	förut; 7
+För BBC:s Andrew Marr Show berättade han : ” Ett allmänt val är ärligt talat det sista som regeringen vill ha . ”	ärligt talat; 14,15
+Han var ytterst nådig och tog det som en karl , jag är bortom ursinnig .	tog det som; 6,7,8 | bortom ursinnig; 14,15
+De centrala Anderna tillhör de så kallade ” Andes de tipo andino ” som formades av subduktion av oceanskorpan .	så kallade; 6,7 | de tipo andino; 10,11,12
+Konsumenten kan öka efterfrågan på förändring .	efterfrågan; 4
+” Fullständig försummelse av sin egen hälsa ” , rapporterade hans fru , Alice .	försummelse av; 3,4
+Å andra sidan var Vine konst på sex sekunder .	på sex sekunder; 7,8,9
+1538 varnade den spanska inkvisitionen sina medlemmar för att tro på allting som Malleus sade .	för att; 8,9 | tro på; 10,11
+Han spelade Humphrey Bogarts yngre bror , en sorglös playboy , i Sabrina ( 1954 ) mot Audrey Hepburn .	spelade yngre bror; 2,5,6
+När de landar träffar de andra partiklar som i sin tur kan ryckas upp i luften , vilket startar en kedjereaktion .	i sin tur; 8,9,10 | ryckas upp; 12,13
+I sin hast att erövra Kadesh begick Ramses II ett stort taktiskt misstag .	i sin hast; 1,2,3
+Ludvig den tyske invaderade Mähren och ersatte Mojmír I med dennes brorson Rastiz som blev St. Rastislav .	brorson; 12
+Von Bellingshausen såg Antarktis den 27 januari 1820 , tre dagar innan Bransfield såg land och tio månader innan Palmer gjorde det i november 1820 .	den 27 januari 1820; 5,6,7,8
+Mishima stödde en väldigt individuell sorts nationalism mot slutet av sitt liv .	sorts nationalism; 6,7
+En taleskvinna för Harley-Davidson sade att de tidslinjer som flutit runt i medierna – 2017 eller 2020 – inte stämmer .	flutit runt; 10,11
+Spåren av blod på kläderna hade den form som de rapporterats att ha haft av nyhetsrapporterna på dagen för mordet .	rapporterats ha haft; 11,13,14
+Fackförbunden har varit väldigt stridslystna och vid flera tillfällen har de krävt ett upphävande av den lagstiftning som Fátima Báñez är mest stolt över .	vid tillfällen; 7,9 | upphävande av; 14,15 | stolt över; 23,24
+Detta kort ger ett underhåll som kan tas ut från bankomater för att köpa nödvändiga skolartiklar såsom böcker och uniformer .	tas ut; 8,9 | skolartiklar; 16 | bankomater; 11
+Han arbetade för BBC i ett årtionde .	årtionde; 7
+Man vet inte på vilket sätt de båda dramatikerna skulle ha arbetat tillsammans .	tillsammans; 13
+Hon fann övergången till skönlitteratur lätt , och förklarar ” varje bok är en inlärningskurva , och man måste hålla ett öppet sinne ” .	inlärningskurva; 15
+Studien tolkade dessa tre faktorer som ställföreträdare för förtjänster som försakas genom revolt , och därför att lägre försakade förtjänster stimulerar revolt .	ställföreträdare; 7 | försakas; 11 | lägre försakade; 18,19 | försakade förtjänster; 19,20 | stimulerar revolt; 21,22
+Med hennes utseende färdigställt blev Jasmine Disneys första icke-vita prinsessa i motsats till att vara av europeisk härkomst .	icke-vita; 9 | i motsats till; 11,12,13
+Deras chef för miljöpolicy Jeff Knott konstaterade : ” Jag skulle bli förbluffad om antingen ett förbud eller licensiering infördes som en följd av detta ” .	förbluffad; 13
+Den har tre parallella kapell vid absiden och många sidokapell mellan strävpelarna .	strävpelarna; 12
+Nord- och Sydamerika behandlas som åtskilda kontinenter i sjukontinentsmodellen .	Nord-och Sydamerika; 1,2,3
+Det exakta syftet bakom dessa megaliter diskuteras fortfarande , men de kan ha utgjort en kanaanitisk ” hög plats ” från medelbronsålder , ca 1600 f.v.t .	utgjort en plats; 14,15,19
+Under det första århundradet av utveckling var den spanska dominansen i regionen obestridd .	århundradet; 4
+Enligt Nya testamentet tillbringade Paulus arton månader i Korint , uppskattningsvis sjutton år efter sin konvertering .	uppskattningsvis; 11 | konvertering; 16
+Film hade förändrats så drastiskt att Hollywood hade alienerat familjepubliken .	familjepubliken; 10
+Han diskuterade också federaliseringen av Buenos Aires stad , utvidgningen av handelslagstiftningen och utlysandet av nya generaler till armén .	utlysandet av; 14,15
+Sviktande hälsa minskade Hitchcocks produktionstakt under de sista två årtiondena av hans liv .	under de sista två årtiondena; 6,7,8,9,10
+Men just nu är allting paj och han verkar söka efter svar hela tiden .	just nu; 2,3 | hela tiden; 13,14
+Den kanadensiske utredaren av flygplanskraschen Larry Vance berättade för SPIEGEL att han är övertygad att en av piloterna avsåg att landa maskinen på havsytan – så den skulle sjunka .	avsåg att; 19,20
+Eftersom serie 1 inte längre är den gamla , kan många användare spara 100 euro .	inte längre; 4,5
+” Jag älskade de tropiska färgerna ” , säger han .	säger han; 9,10
+Då en stadig vind börjar blåsa börjar små partiklar som ligger på marken att vibrera .	börjar blåsa; 5,6
+Sedan 1960-talet har den sydkoreanska ekonomin vuxit enormt och den ekonomiska strukturen transformerades radikalt .	vuxit enormt; 7,8 | transformerades radikalt; 13,14
+Filmen utgör en krönika över förstörelsen av Carangis liv och karriär som en följd av hennes beroende av heroin , och hennes förfall och död i AIDS i mitten av 1980-talet .	en följd av; 13,14,15
+Doss historia har också en osannolik kvalitet som gör den så mycket mer tilltalande .	tilltalande; 14
+Adidas hjälper till att städa jordens hav genom att använda det skräp som flyter omkring i världen för att göra skor .	hjälper till; 2,3 | flyter omkring; 14,15
+Trudeau kommer att utsträcka den inbjudan till USA:s 45:e president , vem han eller hon än må vara .	utsträcka inbjudan; 4,6 | vem än; 12,16 | må vara; 17,18
+Det är svårt att tänka sig att Italien har färre kilometrar tunnelbana än Madrid .	tänka sig; 5,6
+De akamenidiska styrkorna erövrade Trakien , de grekiska städerna längs kusten och Paionierna .	None
+Detta kommer sätta nya begränsningar för de klimatförändringar som skedde över jorden och för så många arter – inte bara dinosaurierna – innebar undergången .	innebar undergången; 23,24
+Detta skulle inte enbart påverka underhållningsinnehåll , men i lika stor grad utbildning , vetenskaplig forskning och , kanske viktigast av allt , politisk diskurs .	i lika stor grad; 9,10,11,12 | av allt; 21,22
+1770 avslöjades hans bror prins Henry , hertig av Cumberland och Strathearn , som äktenskapsbrytare och följande år gifte sig Cumberland med en ung änka , Anne Horton .	gifte sig; 19,20
+När Millican dog antog vi att det var det sista vi skulle se av buggiga , ryckiga Odi också .	dog antog; 2,3
+Dess betydelse vilar på två fakta .	vilar på; 3,4
+Exempel är Linjeöarna i Stilla havet och Maldiverna i Indiska oceanen .	Linjeöarna; 3
+Bogd Khaan sade att både Mongoliet och Kina hade administrerats av manchuerna under Qing , och efter Qing-dynastins fall 1911 hade kontraktet för den mongoliska underkastelsen till manchuerna blivit ogiltigt .	Qing-dynastins; 18 | fall; 19 | blivit ogiltigt; 29,30
+Tiberius rapporteras ha ångrat sin avfärd och anhöll om att få återvända till Rom flera gånger , men varje gång avslog Augustus hans anhållan .	ha ångrat; 3,4 | anhöll om; 8,9 | återvända till; 12,13 | varje gång; 19,20
+Vissa män förstår och Bono är en av de killarna , sade Leive i en intervju nyligen .	en av de killarna; 7,8,9,10
+1 oktober 1961 förenades det tidigare brittiska Sydkamerun med franska Kamerun för att bilda Förbundsrepubliken Kamerun .	för att; 11,12
+Med användning av en originell teknik lyckades Shen muddra kanalen och demonstrerade det uppsamlade slammets väldiga värde som gödsel .	muddra kanalen; 8,9 | uppsamlade slammets värde; 13,14,16
+I hörnet finns en tjej i en sjalett och jeans som ser så försynt ut att jag tror det är ännu en assistent .	ser ut; 12,15
+Om någon inte kan hantera ett twitterkonto , kan de inte hantera kärnvapenkoderna , hånade Obama .	hantera konto; 5,7
+För en modern publik , som till största del inte har så stor erfarenhet av frontlinjeskonflikter , hör Doss bedrifter hemma i det ofattbaras rike .	till största del; 7,8,9 | hemma i; 21,22
+De två organisationerna skickade in ett överklagande som förkastades av kassationsdomstolen den 12 oktober .	skickade in; 4,5 | den 12 oktober; 12,13,14
+Vi kan inte låta presidentskapet gå till Donald Trump , någon så rasistisk , sexistisk och otroligt okvalificerad att vara överbefälhavare .	låta gå till; 4,6,7
+Det Franska digitala rådet , som ger råd om lagförslag i linje med frågor om digital teknologi , kunde också granska det .	ger råd; 7,8 | i linje med; 11,12,13
+Detta är också den enda regionen i Alaska med medeltopptemperatur över fryspunkten under vintermånaderna .	medeltopptemperatur; 10
+Poliserna lyckades besegra 53-åringen under handlingen i söndags morse .	under handlingen; 5,6 | i söndags morse; 7,8,9
+Papua Nya Guinea betecknas ofta som möjligen världens värsta plats när det kommer till könsrelaterat våld .	kommer till; 13,14
+Republikanska ekonomer varnar för att tolka dessa uppgifter som bevis för att deras parti är usla på ekonomisk politik .	varnar för; 3,4 | tolka som bevis; 6,9,10 | är usla; 15,16
+Borträknat den nordvästra änden dominerar tajgan , och täcker en betydande andel av hela Sibirien .	Borträknat; 1
+Liksom för majoriteten av platser i södra Europa dateras fynden tillbaka till tidigt 400-tal f.Kr.	dateras tillbaka; 9,11
+Christian Wolmar som har skrivit ett antal böcker om järnvägshistoria kommer att kandidera den 1 december .	kommer att; 11,12
+” Keltiska havets torsk kan kollapsa , ” utan de föreslagna minskningarna , sade en EU-representant .	utan minskningarna; 9,12
+Anledningen till att marknadsföra videon i Tyskland är oklar .	marknadsföra; 4
+En talesperson för polisen berättade för AP att det förekom ” en ordväxling ” som följdes av ett ” gräl ” men att inga skador hade rapporterats .	följdes av; 14, 15
+Mängden varor som transporterades på Donau ökade till ungefär 100 miljoner ton 1987 .	None
+Att spela lika en match du dominerat är lätt att skaka av sig , men att göra så tre gånger i rad tyder på en svaghet .	skaka av sig; 11,12,13
+Han sade även att Klein inte ville kommunicera , samarbeta eller ville gå upp från celler under domstolen för att närvara vid sitt förhör .	gå upp; 13,14 | närvara vid; 21,22 | förrätta förhör; 21,24
+Schlei och våtmarkerna mellan Danevirke och Husum hade frusit igenom en svår vinter och landområdet omedelbart söder om Danevirke hade erövrats av den framtågande tyska armén .	frusit igenom; 9,10
+Naturligtvis kommer Kina presentera mängder av annan militär maskinvara den här veckan från attackhelikoptrar till sjöflygplan .	den här veckan; 10,11,12
+Uppsatsen , utgiven som Undersea , var en livfull berättelse om en resa längs havets botten .	livfull; 8
+” Vi möter stor konkurrens , och vi tror att överfarten kan hjälpa ” , sade Joe Sternlieb , ordförande för Georgetown BID .	None
+Om detta kommer en dagordningspunkt i Marocko att handla mitt på lördagen när industriländer får fråga ut varandra offentligt om deras planer och ambitioner .	dagordningspunkt; 5 | får fråga ut; 15,16,17 | varandra; 18
+Vad som började som en rutinmässig ultraljudsundersökning blev komplicerad när den väntande modern Margaret Boemer från Plano , Texas fick höra att hennes ofödda barn hade en ovanlig åkomma och behövde en operation för att överleva .	väntande modern; 12,13 | ofödda barn; 24,25
+Chaleten brann ner fullständigt .	brann ner; 2,3
+Kändisar , fans och till och med CNN-reportrar klär ut sig till karaktärer från ” Stranger Things ” den här helgen .	till och med; 5,6,7 | klär ut; 9,10 | klär ut sig; 9,10,11
+I teorin , om det görs rätt , är det oupptäckbart .	I teorin; 1,2 | uppptäckbart; 11
+Londonfördraget , underskrivet 30 maj 1913 , delade upp betydande delar av det territorium som Albanien gjorde anspråk på , oavsett dess etniska uppbyggnad , mellan de allierade på Balkan och minskade Albaniens territorium till dess centrala regioner .	delade upp; 8,9 | uppbyggnad; 24
+Enligt kristen tro var en grav som var inbäddad i kalkstenen Jesus sista viloplats .	Enligt kristen tro; 1,2,3 | var inbäddad i kalkstenen; 8,9,10,11 | Jesus sista viloplats; 12,13,14
+Och , medgav hon , ” du måste se på var hon har medgivit att vi måste göra något annorlunda – vi kan bättre – och där hon har uttryckt ånger . ”	medgivit att; 14,15 | uttryckt ånger; 30,31
+De ligger som det nationella genomsnittet i klass 4 och bättre än det nationella genomsnittet i klass 8 .	ligger som genomsnittet; 2,3,6 | bättre än genomsnittet; 11,12,15
+Eons fasta avgiftstariff kostar 760 pund och Avro Energys kunder skulle betala 760 pund för dess Simple and Select-tariff .	Simple and Select-tariff; 18,19,20
+Wilkes återvaldes och utestängdes två gånger till innan underhuset beslöt att hans kandidatur var ogiltig och förklarade tvåan som vinnare .	återvaldes; 2
+Michael Fallon sade att datumet för den första kapningen av stål skulle hjälpa till att säkerställa nya investeringar och skydda hundratals kvalificerade arbeten till 2035 .	hjälpa till; 13,14 | säkerställa; 16
+Under den post-klassiska perioden i Yucatán användes ett tredje system .	ett tredje system; 8,9,10
+Den andelen har ökat stadigt med åren – bara 11 procent av de samlade rösterna lades före valdagen 1996 enligt folkbokföringsbyrån – och det verkar troligt att den kommer öka ordentligt igen .	öka igen; 30,32 | ordentligt igen; 31,32
+Fastän inte en lösning på konflikten tvingade den franska segern vid slaget vid Marengo österrikarna att ge upp Italien en andra gång .	ge upp; 17,18
+De hade dem inte på min tid , och personer utan barn uttrycker genom sitt missnöje allt sitt hat för modern uppfostran .	på tid; 5,7 | uttrycker hat; 13,19 | modern uppfostran; 21,22
+Såklart förstår jag att Tyskland av idag måste hållas isär från Nazi-regimen .	hållas isär; 9,10
+Vid högre vindstyrka lyfts några partiklar upp i luftströmmen .	lyfts upp; 4,7
+Det är som allra tydligast när en kändis namn från början är riktigt ovanligt .	Det är som allra tydligast; 1,2,3,4,5
+Really Really Love You släpptes i augusti och nådde topp 50 : ” Shaky Ground ” , den tillhörande singeln , dök upp i september men Geyer var redan i USA .	dök upp; 22,23 | topp 50; 10,11
+Under första koalitionskriget började snabbt ljus lysa på en ung korsikansk artilleriofficer i den franska revolutionens spår : Napoleon Bonaparte .	ljus lisa; 5,6 | i spår; 12,16
+En seger för Donald Trump skulle genast göra världen mer oroande och ostadig än den redan är .	None
+2003 dominerade han i poängställningen och ledde de sista 33 av 36 lopp och blev 2003 års NASCAR Winston Cup-mästare , den siste föraren att någonsin få den titeln .	NASCAR Winston Cup-mästare; 18,19,20
+I juli 1918 skrevs det fransk-monegaskiska avtalet under , vilket innebar ett begränsat franskt beskydd över Monaco .	innebar ett beskydd; 11,12,15
+Dessutom kommer regeringen behöva hantera ännu en ” het potatis ” .	het potatis; 9,10
+Ett annat tema i Skylark-romanerna blandar in föregångare till modern informationsteknik .	blandar in; 6,7
+Inhemska amerikaner över hela Amerika förlitade sig på den som en basvara i sina medicinska kurer .	förlitade sig; 6,7
+I juni till augusti 2010 drabbade svält Sahelen .	drabbade svält; 6,7 | till augusti; 3,4
+Bergeronklassificeringen är luftmasseklassificeringen med bredast acceptans .	med bredast acceptans; 4,5,6
+Corrado Passera drar tillbaka erbjudandet för Mps på grund av ” den attityd av fullkomlig slutenhet som banken har visat oss ” .	drar tillbaka; 3,4 | på grund av; 8,9,10
+Allt eftersom Grekland skickade ut kolonier västerut mot Sicilien och Italien ( Pithekussa , Kyme ) spreds inflytandet av deras nya alfabet längre .	skickade ut; 4,5
+Detta är en katastrof för smärtpatienter , sade Mailis i torsdags i en intervju med CBC News .	Detta är en katastrof; 1,2,3,4 | i torsdags; 10,11
+Den 1 januari 49 f.Kr. läste Markus Antonius upp ett tillkännagivande från Caesar i vilket prokonsuln förklarade sig som en fredens vän .	läste upp; 5,8 | förklarade sig; 17,18
+Det drivs också av uppväxten av moderna skyskrapor – som den visionära MahaNakhon , Bangkoks högsta byggnad .	uppväxten av; 5,6 | högsta byggnad; 16,17
+Durán agerar som talesman och Ángel Pintado agerar som kassör .	agerar som talesman; 2,3,4 | agerar som kassör; 8,9,10
+Barrie skrev in sig vid University of Edinburgh där han skrev teaterrecensioner för Edinburgh Evening Courant .	skrev in sig; 2,3,4
+Den inre delen av regionen är flack och kullig , utan tydliga gränser mellan ett område och nästa .	utan gränser; 11,13
+Flera analytiker har föreslagit att Huawei har bäst position för att tjäna på Samsungs tillbakagång .	tjäna på; 12,13
+Osmanerna ville förhindra att spannmål fraktas vidare eftersom de hade ett stort behov av det .	fraktas vidare; 6,7
+Det är möjligt att räkna ut vilken fas månen stod i en viss dag för två tusen år sedan men inte huruvida den var dold av moln eller dis .	räkna ut; 5,6 | vara dold; 24,25 | vara dold av; 24,25,26 | tusen år; 17,18 | vara dold av moln; 24,25,26,27 | vara dold av moln eller dis; 24,25,26,27,28,29
+Den här gången påstod han sig ha utkämpat slaget utan att ens brytt sig om att ta på sig sitt bröstharnesk förrän två timmar efter att striderna började .	ha utkämpat; 7,8 | brytt sig; 13,14 | ta på sig; 17,18,19
+Från ungefär 700-talet f.Kr. börjar stadsstater uppkomma : små , självstyrande territorier med sina egna politiska system .	stadsstater uppkomma; 6,7
+Genom att använda Alvarez tvåpoliga antenn för att få en väldigt hög optisk upplösning möjliggör GCA för markbaserade radaroperatörer som tittar på speciella precisionsskärmar att guida ett landande flygplan på landningsbanan genom att sända verbala kommandon till piloten .	None
+Denna avdelning står nu inför nya utmaningar .	inför nya utmaningar; 5,6,7
+" Nicolai samarbetar på olika filmers musik av Morricone som Metti , en kväll vid middagen ; några av dem skrevs av båda tillsammans . "	tillsammans; 24
+Under den här tiden lämnades Marcelle ofta ensam i kammaren medan Piaf och Mômone var ute på gatorna eller på klubben och sjöng .	den här; 2,3 | vara ute; 15,16 | på gatorna; 17,18 | på klubben; 20,21
+Det är möjligt att ha normala nivåer av hemoglobin , men att ha låga reserver av järn totalt sett , säger Canadian Blood Services ( CBS ) .	totalt sett; 18,19
+Jag måste gratulera Andy – att bli nummer 1 i världen , det är en otrolig bedrift , sade amerikanen .	bli nummer 1 i världen; 7,8,9,10,11 | en otrolig bedrift; 15,16,17
+Till sin omfattning tillhör den de mest omfattande kulturerna för perioden , för vilken många platser är kända .	omfattande kulturerna; 8,9
+Den makedoniska armén avancerade så långt som till passet vid Termopyle som delar Grekland i två delar , men den försökte inte att inta det eftersom det var starkt bevakat av en samlad styrka av atenare , spartaner och achaier .	avancerade så långt som till passet; 4,5,6,7,8,9 | bevakat av; 30,31
+Förutom att vara en direkt källa till livsmedel kunde vissa djur tillhandahålla läder , ull , hudar och gödsel .	tillhandahålla; 12
+Presidenten för Madrid-regionen , Cristina Cifuentes , representerar de mest konservativa , medan ledarna för partiet , såsom den sektorielle understatssekreteraren , Javier Maroto , representerar de mest progressiva .	None
+Trumps fru , Melania Trump , gjorde sitt första framträdande på turnén sedan det republikanska partikonventet i juli .	framträdande; 10 | partikonventet; 16
+Tyvärr är det återigen fåtalet som förstör det för flertalet , skrev Jesse LaBrocca , grundare av Hack Forums , i ett meddelande som förklaring till varför avdelningen stängdes ner .	fåtalet; 5 | stängdes ner; 29,30
+Dessa växtfamiljer finns fortfarande i Papua Nya Guinea .	fortfarande; 4
+Men inverkan av Hispania på nykomlingarna var också stor .	inverkan på; 2,5
+Tidigare hade jetplanen bara setts av bloggare .	None
+Våra mobiltelefoner är så mycket mer än telefoner numera .	mer än; 6,7
+Starlin tog över som historieplanerare följande utgåva , och började utveckla en utstuderad historieföljd som centrerades på den skurkaktige Thanos , och spreds ut över flera Marvel-titlar .	tog över; 2,3 | spreds ut; 23,24
+Det är bara rent förfärligt .	bara rent; 3,4
+Det skapas en voucher som kan sparas på din smartphone eller uppvisas i kassan .	None
+Studenter som Rai har träffat kuratorer på skolan för att prata om det som hände , men hon säger att den största trösten har kommit från att träffa sina vänner .	None
+En ordentlig teologi skulle därför behöva konstrueras i ljuset av dess framtida mål .	i ljuset av; 8,9,10
+Mellan 1991 och 1997 drev hon en skola för barn med inlärningssvårigheter .	drev skola; 5,8
+Eller är det en dyr standard- eller förbetalningstariff ?	standard-förbetalningstariff; 6,8
+Strategin ger intäkter genom sponsorer och marknadsföring .	marknadsföring; 7
+Hans färdighet i att få svar för skattebetalarnas räkning kommer att saknas djupt .	för skattebetalarnas räkning; 7,8,9
+Den grekiska stadsstaten Aten , som var beroende av spannmålsimport från Skytien , upprätthöll under 400-talet f.Kr. kritiska allianser med städer som kontrollerade sunden , såsom den megariska kolonin Byzantion .	var beroende av; 7,8,9
+Vid den här tiden hade extravagant spenderande och en rad av dåliga investeringar av hennes investerare lämnat henne nästan barskrapad .	en rad av; 9,10,11
+För närvarande är vänteperioden åtta veckor .	närvarande; 2
+Dessa uppskattningar sammanfaller med procentandelarna av andelslägenheter som dyker upp på hyresmarknaden efter färdigställande , vilket visar på den viktiga roll som ( inrikes ) investerare spelar på Stor-Torontoområdets bostadsmarknad .	dyker upp; 9,10 | visar på; 17,18 | spelar på; 27,28
+Australiens Royal National Park , upprättad 1879 , var världens andra officiellt upprättade nationalpark .	nationalpark; 4,14 | officiellt upprättade; 12,13
+Han dök hela tiden upp vid min lada och jag skojade med grabben att han uppenbarligen inte ville bli såld .	dök upp; 2,5 | min lada; 7,8 | skojade med; 11,12
+Det kommer dock att finnas begränsningar för hans förmåga att spendera , eftersom regeringen fortfarande har ett betydande budgetunderskott .	budgetunderskott; 19
+Människor blev dödade där .	None
+Enligt stadens polismyndighet utbröt ett slagsmål efter att ” en stor grupp människor … som identifierade sig som distriktsmyndigheter ” anlände till inspelningsplatsen i tisdags .	utbröt; 4 | efter att; 7,8 | identifierade sig; 16,17
+Det är trots allt så att vår organisations prestationsförmåga sällan mäts i termer av hur säkra vi är eller hur många regler vi följer .	trots allt; 3,4 | i termer av; 13,14,15
+För första gången under de senaste sex åren har arbetslöshetsgraden sjunkit under 20 % och det är redan 600 000 personer fler anställda än det var för ett år sedan .	första gången; 2,3 | sjunkit under; 11,12 | anställda än det var; 23,24,25,26 | för ett år sedan; 27,28,29,30
+Därför kommer de irriterande tecknen inte helt försvinna : Enligt information från nyhetsbyrån dpa , kommer de bara aktiveras om , till exempel , artisten eller skivbolaget inte är medlem i GEMA och inte har ett avtal med YouTube .	till exempel; 21,22
+RHS samlade in kommentarer som skickats in av skolbarn och lärare som deltagit i experimentet .	samlade in; 2,3
+Under tolvhundratalet användes namnet Apulia av några författare för att beteckna den södra delen av den italienska halvön .	för att; 9,10
+Till skillnad från det från 28 oktober har mr Comeys brev knappt kommenterats .	Till skillnad från; 1,2,3
+Ett av exemplen på forskning som tillämpas under säkerhetsåtgärder har också producerat en humanoid robot för att tävla med Valentino Rossi .	för att; 16,17
+Företag hade förväntat sig att minska i juli , direkt efter Brexitomröstningen , men har istället kunnat fortsätta växa stadigt .	förväntat sig; 3,4
+Fler än 330 besättningsmän är ombord på skeppet .	None
+Golden Gate Park , som är över fyra kilometer lång , erbjuder en botanisk trädgård , ett planetarium , en japansk trädgård och ett akvarium .	över fyra kilometer; 7,8,9
+Den årliga enkäten visade också att oron över att ta på sig nya ekonomiska bördor har skjutit i höjden .	ta på sig; 10,11,12
+Dessa var nästan helt bortglömda tills efter Smiths död .	bortglömda; 5
+Medicin studerades också , särskilt i södra Italien där muslimsk medicin influerade skolan vid Salerno .	också; 3 | särskilt; 5 | i södra; 6,7 | vid Salerno; 14,15
+Bara 50 var marknadsplatser .	Bara var marknadsplatser; 1,3,4
+” Vi har bett andra stater att hjälpa oss befolka djurparken med olika djurarter , inklusive en gris ” , sade Saqib .	bett hjälpa befolka; 4,8,10
+George förfärades av vad han såg som deras lösa seder .	lösa seder; 9,10
+Den första och främsta var Ohiofloden som rinner ut i Missisippifloden .	första och främsta; 2,3,4
+Snowman brukade hoppa över det höga staket som skiljde de två ägorna åt och alltid återvända dit han kände sig hemma .	hoppa över; 3,4 | skiljde åt; 9,13 | kände sig hemma; 19,20,21
+Försöken att sluta fred tog till sist slut på våren 1415 och Enrique beslöt sig för att utföra sin plan : en invasion av hela kungadömet Frankrike .	sluta fred; 3,4 | till sist; 6,7 | beslöt sig; 14,15
+Läkare har inte dessa verktyg , de har bara ett receptblock och en injektion , sade Mailis .	None
+Osmanska imperiet och Ryssland förvägrades tillstånd för att hålla deras örlogsflottor i Svarta havet .	förvägrades tillstånd; 5,6
+Men dess senaste satsning in i spelet för chatt på arbetsplatsen är en del i en större trend från teknikföretagens sida .	in i spelet; 5,6,7
+1976 mötte han en vän som arbetade med hans skivbolag The Rocket Record Company , Kiki Dee , för att spela in vad som skulle bli ännu en anmärkningsvärd framgång för honom : ” Do n't Go Breaking My Heart ” .	spela in; 21,22
+Vem kan stoppa det här Australien-laget ?	stoppa det här; 3,4,5
+Bouchard led en chockerande tresetsförlust .	led en tresetsförlust; 2,3,5
+Det är anledningen till att vi kommer tillbaka för att få mer .	kommer tillbaka; 7,8
+Fast det kan verka förvånande har även moln med surt regn sin silverkant .	moln med silverkant; 8,9,13
+De kommer att spela på lördag 10 juni .	på lördag; 5,6
+Guldåldersspanska eller tidigmodern spanska är den variant av språket som utgör övergången från medeltidsspanska till modern spanska .	utgör övergången; 11,12
+Senare , när Augustus grundade det Romerska imperiet hänvisade romarna till Medelhavet som Mare Nostrum ( ” Vårt hav ” ) .	Mare Nostrum; 14,15 | Vårt hav; 18,19
+Två år senare står Jutting , nu 31 , inför Hong Kongs högsta domstol anklagad för två fall av mord och ett fall av att förhindra lagenlig begravning .	Två år senare; 1,2,3 | inför domstol; 10,14
+Var deras gudsgivna rätt till manteln som världens bästa icke längre önskade ?	världens bästa; 8,9 | icke längre; 10,11
+I natt utför vi bestraffningar med ett helljus , står det i meddelandet .	i natt; 1,2 | med helljus; 6,8 | står det i meddelandet; 10,11,12
+Om Donald Trump blir president kommer regeringen här fortfarande vara tvungen att arbeta med honom för att driva fram vad för gemensam agenda som kan finnas , för att säkerställa att kanadensiska företag och intressen representeras i Washington .	driva fram; 17, 18 | för att; 15, 16 | för att; 27, 28
+I meddelandet anklagas tidigare justitieminister Brice Hortefeux för att vara ” fascist ” , ” minister ( idiot ) för inrikes affärer ” och en ” ligist ” .	vara fascist; 10,12 | vara minister för inrikes affärer; 16,17,20,21,22 | vara ligist; 27
+" Mannen berättade för honom att ett krig mellan två universum är på väg , så som han och Walter hade förutsagt ; det är av denna anledning som Olivia , bland andra , tränades som barn . "	är på väg; 12,13,14 | bland andra; 32,33 | tränades som barn; 35,36,37
+Det är rimligt att säga att Rocco Catalano arbetar , lever och andas retro .	arbetar lever andas; 9,11,13
+Bytet av Barrosos orsakade en stor uppståndelse .	Bytet av; 1,2
+Men det kan vara så att BA och IAG har knäckt det och kan erbjuda något som kan verka pålitligt .	har knäckt; 10,11
+Det hon säger och det hon gör , det – faktiskt , det är otroligt .	None
+Då Herodes var i Jerusalem vid den tidpunkten bestämde Pilatus att skicka Jesus till Herodes för att ställas inför rätta .	ställas inför rätta; 18,19,20
+Mellan dem blomstrade ett lång yrkesmässigt och vänskapligt förhållande som varade i åratal .	åratal; 13
+Rona utvecklade en förbättrad metod för förberedelse av poloniumkällor och produktion av alfastrålning .	förbättrad metod; 4,5
+Då hon alltid stått nära det Katolska fackförbundet ägnade sig Tina Anselmi särskilt åt textilarbetares och lärares rättigheter .	stått nära; 4,5 | ägnade sig; 9,10
+" 1976 användes inte kapplöpningsbanan längre ; 1990 förstörde en brand det som återstod av åskådarläktarna i trä , vilka senare revs tillsammans med stallet . "	användes inte längre; 2,3,5
+Ett astronomiskt observatorium från bronsåldern uppfördes där runt 1900 f.Kr. och hjälpte det närliggande samhälle som bodde där fram till runt 700 f.Kr .	hjälpte fram till; 12,19,20
+Det är 1 200 frivilliga som arbetar med bara paraden , säger González Anaya .	None
+” När jag spelar honom känner jag mig mäktig ” , förklarade Donald Trump-imitatören John Di Domeico för Slate förra året .	spelar honom känner mig mäktig; 4,5,6,8,9
+Jag ville titta på det med dem , men de bestämde till slut att de hellre ville se på det utan mig .	till slut; 12,13
+Finansierade helt med Bernard Tapies egna pengar stängdes dessa skolor 1994 när han försattes i konkurs .	försattes i konkurs; 14,15,16
+Clinton med allierade försöker under tiden hålla strålkastarljuset på Trump , och menar att hans nedsättande kommentarer om kvinnor och minoriteter , samt hans temperament gör honom olämplig som president .	hålla strålkastarljuset på; 7,8,9
+Vi rör oss i rätt riktning : Paris-avtalet kommer att sakta ner klimatförändringarna , vilket även det nyliga Kigali-tillägget för att minska HFC:er kommer att göra , sade Erik Solheim , chef för FN:s miljöorgan .	None
+I juni 2012 släppte det isländska bandet Sigur Rós en video till låten ” Fjögur Píanó ” med LaBeouf i , där han uppträder naken .	uppträder naken; 24,25
+Före sitt tillträde till posten ville Jokowi att den avgående presidenten Yudhoyono skulle ta ansvar för beslutet att ytterligare öka bränslepriserna genom att ta bort fler subventioner .	ta ansvar; 14,15 | ta bort; 24,25
+Hon var 84 år gammal .	var gammal; 2,5
+Vid den här tiden bodde endast runt fyrtio familjer där med mängder av god jordbruksmark och bete för boskap .	med mångder av; 11,12,13
+Vi har ett jättebra lag och det är en möjlighet för oss att föra skeppet framåt .	framåt; 16
+Men stora minskningar har redan skissats ned vad gäller torsk , sjötunga , spätta , glasvar och sej i Keltiska havet och Irländska sjön .	skissats ned; 6,7
+Den tidiga röstningen tyder på att latinamerikanerna den här gången kommer att gå och rösta i större antal , men det är osäkert om denna ökning kommer att ge något utslag .	rösta i större antal; 14,15,16,17 | ge något utslag; 28,29,30
+Liberaldemokraterna , som representerade den välbärgade förorten fram till 2010 , hoppas att rycka tillbaka den med sin kandidat Sarah Olney .	rycka tillbaka; 14,15
+Under hans administration godkändes den kvinnliga rösträtten , legaliserades politiska partier , tilläts alla som tvingats i exil att återvända och de återstående politiska fångarna frigavs .	i exil; 17,18
+Den andra apuliska och kalabriska kungliga regionen hade då etablerats , vilken också inkluderade Samnium , delar av Molise och det orientaliska Basilicata .	hade etablerats; 8,10 | delar av; 17,18
+Jag vet inte varför jag valde henne …	Jag vet inte varför jag valde henne …; 1,2,3,4,5,6,7
+Det finns paralleller att dra här mellan spel och våra vardagsliv .	dra paralleller; 3,5
+Efter kompromissen var kejsare och kung Frans Josef I mycket noga med att behandla båda sina monarkier lika .	var noga med; 3,11,12
+Stormakterna fullgjorde inte önskemålen för erkännande av Albanien .	None
+Han valde att inte försöka få en tredje mandatperiod i den följande valcykeln .	försöka få; 5,6
+2010 publicerade stiftelsen en typsatt utgåva av ” Zettel's Traum ” , vilket tog bort inträdeshindret för de som ryggat för den utkastliknande känslan av den fotografiska offseten .	tog bort; 14,15
+” Jag vet inte vad BNP-tillväxten var under Washingtons eller Lincolns presidentskap , men den institutionella utvecklingen under de mandatperioderna hade stora och bestående effekter . ”	under presidentskap; 8,12 | bestående effekter; 24,25
+För tillfället är analytiker tveksamma till att skriva av tjänsten som död .	skriva av; 8,9
+Spillrorna bildade en ring runt jordens ekvator och drogs så småningom samman av gravitation för att bilda månen .	småningom; 11 | bildade månen; 2,18
+Grälar du med din väckarklocka ?	Grälar du med din väckarklocka; 1,2,3,4,5
+Fastän Island stod under Danmarks politiska kontroll fram till ett mycket senare datum ( 1918 ) har väldigt lite inflytande och inlån från danskan skett i det isländska språket .	None
+Den här varianten hjälper mot ryggsmärtor , den här hjälper mot illamående , den här produkten hjälper dig att sova om nätterna , säger Dietrich från företagets högkvarter i Denver , Colorado där marijuana säljs lagligt .	den här; 1,2 | den här; 8,9 | den här; 14,15 | om nätterna; 21,22
+Det var 30 augusti 2015 , medan en armé av ankor erövrade internet .	armé av; 9,10
+Rebeller från Alliansen av demokratiska krafter för befrielsen av Kongo intog Lubumbashi i april 1997 .	Alliansen av demokratiska krafter för befreielsen av Kongo; 3,4,5,6,7,8,9,10 | intog Lubumbashi; 11,12
+Fyra av tio vuxna har skadats på grund av dåligt väder medan nio av tio underskattar hur kyligt Storbritannien kan bli vintertid .	på grund av; 7,8,9
+Den största delen av Donaudeltat ligger i Rumänien ( länet Tulcea ) , medan dess norra del , på den vänstra sidan av Chilia-armen , ligger i Ukraina ( Odessa Oblast ) .	på den vänstra sidan av; 19,20,21,22,23
+Yerba Buena-trädgården anlades i början av 1990-talet på taket till Moscone North Convention Center .	i början; 4,5 | på taket; 8,9
+Vid varje station har en vakt i röd mössa uppsikt över perrongen och en hjulknackare går längs tåget med en hammare och knackar försiktigt på underredet .	uppsikt över; 10,11 | knacka på; 23,25
+Gomery , som ledde undersökningskommissionen om den federala sponsringsskandalen mellan 2004 och 2006 sade att sådana organisationer är oundgängliga för att hjälpa till för att bygga upp allmänhetens förtroende för laglig rätt .	hjälpa till; 22,23 | bygga upp; 26,27
+Aldrin har varit gift tre gånger .	None
+Häxtimmen börjar åtminstone när den läskiga orgeln spelas , som i 60-talshiten Monster Mash .	åtminstone; 3 | Monster Mash; 13,14
+Om en turkisk anställd slutar så kommer de turkiska arbetsråden .	arbetsråden; 9
+Spola framåt till 2016 och detta är allt mer värt att uppmärksamma .	allt mer; 8,9
+Deras återkomster understryker attraktionen hos en bra utmaning , konstnärlig eller annan : obekvämhet , utveckling och en meningsfull koppling .	understryker attraktionen; 3,4
+Hon drog också fördel av sina personliga kontakter med många statsanställda vetenskapsmän , som försåg henne med hemligstämplad information .	drog fördel av; 2,4,5
+Det följdes av Aviva Investors Multi Strategy Target Return och Income-fonderna , i vilka investerarna satte in 2 md respektive 1,4 md pund .	satte in; 16,17
+Hitchcock föredrog att arbeta med sin tids främsta talanger – filmaffischdesigner som Bill Gold och Saul Bass – som tog fram affischer som pricksäkert representerade hans filmer .	tog fram; 20,21
+Vatten från floderna används i över 500 hydroelektriska kraftverk , som genererar så mycket som 2 900 kilowatt elektricitet .	hydroelektriska kraftverk; 8,9
+Valentino försökte fjärma rollkaraktären från det stereotypa porträttet av en arabisk man .	fjärma från; 3,5
+I nuläget är den högsta bot som RECO kan ålägga en mäklare 25 000 dollar .	None
+Jag var bara en pojke med leriga skor .	bara en pojke; 3,4,5
+Hennes djur enligt zodiaken är apa och året för hennes traditionellt viktiga sextonde födelsedag var 1992 .	enligt zodiaken; 3,4 | traditionellt viktiga; 11,12 | sextonde födelsedag; 13,14
+Vi tror inte att den misstänkte har någon koppling till den här skolan , eller till de två flickorna , eller specifikt till Abbotsfordområdet , sade hon .	har någon koppling; 7,8,9
+Karibiska havet hade varit okänt för befolkningarna i Eurasien fram till 1492 när Christofer Columbus först seglade in i Karibiska vatten med uppdraget att hitta en sjöväg till Asien .	seglade in; 17,18
+Varje karta i utställningen berättar sin egen historia , inte alla faktiska .	berättar historia; 5,8
+Med detta kan du , i teorin , komma åt dina pengar när du än vill .	i teorin; 6,7 | komma åt; 9,10 | ännu; 15
+Det står klart : Män kan ha mer ansvar i preventivmedelsfrågor .	står klart; 2,3
+Det har även öppnat upp VW för enorma skadeståndsanspråk , rättsliga åtgärder och har sett det ta mer än 16 md euro i avskrivningar .	öppnat upp; 4,5 | ta avskrivningar; 17,24
+Det finns större skillnader mellan Sulla och Trump , Rom och USA , än det finns likheter , men det talar inte emot likheterna .	talar emot; 21,23
+Förenta staterna befriade Kuba ( efter en ockupation av USA:s armé ) .	Förenta staterna; 1,2
+En fundamental förändring av arbetsprinciper orsakades av skotten James Watt .	förändring av; 3,4
+Hon mördade Andre Price III genom att pressa hans ansikte mot en luftmadrass i hennes vardagsrum innan hon försökte göra samma sak mot sin dotter Angel , sade polisen .	genom att; 6,7 | göra sak; 20,22
+Efter att dess uppgång avstannat på Billboard 200 som nr 96 klättrade Thought 'Ya Knew till nr 31 i Storbritannien , men albumet var bara kvar på listan två veckor i Storbritannien .	klättrade till nr 31; 12,17,18,19 | vara kvar; 25,27
+Men den nyligen bildade Republiken Kina betraktade Mongoliet som en del av sitt territorium .	en del; 10,11
+Innan Anderna bildades hade den västra kanten av Sydamerika redan varit plats för flera orogenetiska rörelser .	orogenetiska rörelser; 15,16
+Bara en handfull av dem ( grevskap ) hade existerat under Henry I och dessa hade i stort sett varit symboliska .	i stort sett; 17,18,19
+Den kanaanitiska staden förstördes i en brand , troligtvis i släptåget av ett fälttåg av den egyptiska faraon Thutmosis III .	i släpetåget; 10,11 | fälttåg; 14
+North Carolina är nedslagsplatsen i det här valet .	nedslagsplatsen; 4
+Kultlämningar som upptäcktes på platsen var en rad av tio stora upprätta stenar , kända som massebot , uppställda i nord-sydlig riktning varav den högsta var tre meter , med en altarliknande struktur i mitten och en stor fyrkantig stenskål .	massa bot; 17,18 | nord-sydlig; 21 | stenskål; 40,41
+På 1900-talet , mellan 1904 och 1914 , frambringade Antonio Gaudí en reform som varade tio år .	None
+Efter att ha säkrat Makedoniens gränsregioner samlade Filip en stor makedonisk armé och marscherade djupt in i Trakien för en lång erövringskampanj .	Efter att ha säkrat; 1,2,3,4 | marscherade djupt in i; 14,15,16,17
+Fram till augusti 2015 har Kesha släppt väldigt lite information om hennes kommande tredje studioalbum .	None
+” Fler vänder sig till kreditutlåning … Fast detta lånande kanske är under kontroll nu kan en plötslig förändring i omständigheterna leda till skuldproblem . ”	vänder sig; 3,4 | under kontroll; 13,14 | leda till; 22,23
+Men en reseexpert varnade att internet under flygning ofta var opålitligt och troligen inte skulle påverka resenärers val av flygbolag .	påverka val av; 16,18,19
+Detta omkastades dock snart när Julian dödades i strid år 363 .	dödades i strid; 7,8,9
+Denna magma tenderar att vara väldigt trögflytande på grund av sitt höga kiselinnehåll , så ofta når den inte ytan utan svalnar djupt nere .	tenderar att vara; 3,4,5 | på grund av; 8,9,10 | svalnar djupt nere; 22,23,24
+Det bör inte finnas något företräde i regeringens tillgänglighet , eller sken av företräde i tillgängligheten , som tilldelas individer eller organisationer för att de har givit finansiella bidrag till politiker och politiska partier , lyder riktlinjerna .	sken av; 12,13,14
+Mr Osborne gick med i en talaragentur efter att ha blivit avskedad i juli .	avskedad; 12
+Den dominikanske prästen Heinrich Kramer var assistent till ärkebiskopen av Salzburg .	ärkebiskopen; 9 | assistent till; 7,8
+Riddaren Lyvet släpptes och hans följare slängdes in i Towern .	slängdes in; 7,8
+Efter maktövertagandet av Nationalsocialisterna 1933 förekom spridda försök att återfå de gamla kolonierna .	återfå; 10
+Artikeln av Thompson antar att maya var ett i grunden ” fredligt ” folk eftersom de saknade ett uppenbart försvar .	i grunden; 9,10
+Även om majoriteten av situationer som uppstår på arbetsplatsen kan lösas utan konflikt .	Även om; 1,2
+Vad religiösa bruk beträffar var Fiorello utbildad inom Episkopalkyrkan och förblev medlem i den protestantiska kyrkan hela sitt liv .	förblev medlem; 11,12
+Ett av deras många sörjande facebookinlägg har en rad som skulle ha gjort Chris förtjust : ” Mer afrikansk än du , har jag ej känt . ”	None
+1980 års presidentkampanj mellan Reagan och sittande president Jimmy Carter genomfördes under inhemska oroligheter och den pågående gisslankrisen i Iran .	None
+Napoleon var säker på att den tydliga framgången för Austerlitz kunde leda till ett allmänt fredsfördag , men hans hopp föll snart om intet : den nye brittiske premiärministern Lord Grenville vägrade alla överenskommelser , och det gjorde även tsar Alexander .	om intet; 23,24
+När Hans Pettersson lyckades ordna tillgångar för att betala för Ronas utgifter tillät Joliot-Curie henne att komma och studera polonium-separation vid Curie-institutet i Paris .	ordna tillgångar; 5,6 | polonium-separation; 20
+Frankrike har inte något bra rykte .	har inte något bra rykte; 2,3,4,5,6
+Järn är ett livsviktigt grundämne som kroppen behöver för att framställa hemoglobin , det protein som finns i röda blodkroppar som ansvarar för att transportera syre till kroppens vävnader .	framställa hemoglobin; 11,12
+I en intervju nyligen beskrev Zay och Zayion inspelningen av deras version av ” Knuck if you Buck ” på en hem-laptop .	Knuck if you Buck; 15,16,17,18
+CGI Mestre har uppgett i en notering att det inte kommer förekomma någon höjning av moms , i alla fall inte under 2017 .	förekomma; 12 | i alla fall; 18,19,20
+Kanske spelar det ingen roll då jag inte kommer oroas särskilt länge .	spelar roll; 2,5
+Utfärdandet av mynt är företrädesvis numismatiskt till sin natur , med avsikten att säljas främst till samlare .	till sin natur; 7,8,9
+Liksom fjordar är sötvattenssjöar ofta djupa .	None
+Offensiven mot den stora armé som Venedig anlitat påbörjades från Frankrike .	None
+Men några säkerhetsexperter väckte frågor om behovet av kursen och avsikten bakom den .	väckte frågor; 4,5 | avsikten bakom; 11,12
+Kühn kan bara skaka på huvudet .	skaka på huvudet; 4,5,6
+I pluviôse år III ( januari–februari 1794 ) vidtog han för att lätta på trycket från Skräckväldet olika åtgärder för att befria de misstänkta .	lätta på; 13,14
+Federico Fellini sade en gång : ” Clownen är för mänskligheten vad skuggan är för människan ” .	en gång; 4,5
+Området som kontrollerades av Bogd Khaan var ungefärligen det samma som Yttre Mongoliet under Qing-perioden .	Yttre Mongoliet; 12,13
+Enligt Le Figaro kan denna regeringsplan frigöra upp till 42 miljoner euro , varav 15,5 miljoner skulle gå till säkerhet .	frigöra upp; 7,8
+De kunde däremot inte hitta samma mönster i vävnaden som urinblåsan , som inte är direkt exponerad .	däremot; 3 | som urinblåsan; 10,11 | inte exponerad; 14,17
+Ön Hong Kong överläts åt Storbritannien och vissa hamnar , inklusive Shanghai och Guangzhou , öppnades för brittisk handel och residens .	överläts; 4
+Ms Pugh har fått behandling vid Papworths och Addenbrookes sjukhus i Cambridgeshire .	vid sjukhus; 6,10
+Låg inkomst per capita har föreslagits som en anledning till missnöje , som leder till beväpnat uppror .	per capita; 3,4
+I fallet med kejsarfamiljen anses det extremt olämpligt att använda förnamnet .	I fallet med; 1,2,3 | anses det; 5,6 | att använda; 9,10
+Sahelens klimat liknar , men är mindre extremt än , det i Saharaöknen alldeles i norr .	alldeles i norr; 14,15,16
+Till sist måste vi göra det lättare för folk att rapportera misstänkta säkerhetsluckor och skadliga e-postmeddelanden .	Till sist; 1,2 | göra det lättare; 5,6,7 | rapportera säkerhetsluckor; 11,13 | e-postmeddelanden; 16
+Johan av Gent dog 1399 .	None
+Låt oss bara säga att han har fel .	bara säga; 3,4 | har fel; 7,8
+Var kommer all hennes energi ifrån ? Eller den där rösten , som kan stöta ut med en kraft som framkallar chockvågor ?	stöta ut; 15,16 | framkallar; 21
+Efter dessa framgångar skrev han på ett kontrakt med Team Telekom och flyttade in med sin flickvän i Merdingen i Südbaden , där han bodde fram till 2002 .	flyttade in; 13,14 | fram till; 26,27
+Fördraget öppnade nya hamnar för handel och tillät utlänningar att resa i inlandet .	öppnade nya hamnar; 2,3,4 | tillät utlänningar att resa; 8,9,10,11 | i inlandet; 12,13
+I Hong Kongs högsta domstol , två år senare , verkade Jutting mestadels samlad .	mestadels; 13
+Han påpekade också att Rogers nyligen introducerade ett nytt appverktyg som hjälper kunder att övervaka sin dataanvändning .	None
+Den 9 september 2002 lurades Aldrin till ett hotell i Beverly Hills under föregivelsen att han skulle intervjuas för ett japanskt barn-tv-program om rymden .	barn-tv-program; 22
+Wright är en vän till regissörskollegan Garth Jennings , och gjorde gästroller i hans filmer Liftarens guide till galaxen och Son of Rambow .	gästroller; 12 | Son of; 21, 22
+Sedan , gå runt och titta på morgonmarknaden ( 6:30–10 på förmiddagen ) : risslickepinnar , getingkokonger ( pupporna anses vara en delikatess ) , buffellunga , betelnötsbark och - löv , levande paddor och kattfisk .	gå runt; 3,4 | buffellunga; 26 | betelnötsbark; 28
+Två av de mest framstående medelhavscivilisationerna i den klassiska antiken var de grekiska stadsstaterna och fenicierna , vilka båda koloniserade Medelhavets kustlinjer i hög grad .	i hög grad; 23,24,25
+Brittiska kavalleritrupper erhöll också utmärkt träning i fäktning till häst .	fäktning till häst; 8,9,10
+AKP:s islamistiska konservativa har tagit denna vägran som ett rättfärdigande för utfrågningarna .	tagit denna vägran som ett rättfärdigande; 5,6,7,8,9,10
+George var djupt troende och tillbringade timtal i bön , men hans religiositet delades inte av hans bröder .	djupt troende; 3,4 | timtal; 7 | i bön; 8,9 | delades inte av; 14,15,16
+Den utropades till naturskyddsområde 1975 .	utropades till naturskyddsområde; 2,3,4
+Kung Salaman ersatte den politiske veteranen med chefen för finansiell övervakning , Mohammed al-Jadaan .	politiske veteranen; 5,6 | finansiell övervakning; 10,11
+Gudarna representerade tydligt det dagliga livets praktiska behov , och de beviljades skrupulöst de riter och offergåvor som ansågs lämpliga .	None
+Von Beust rättfärdigade kostnadsökningarna som en brist på detaljerad planering .	en brist på; 6,7,8
+Jag undrar också om Davis Cup spelade in .	spelade in; 7,8
+Den verkställande makten består av en statsminister som regeringschef , som styr ett regeringsråd med fem medlemmar .	verkställande makten; 2,3 | statsminister; 7 | regeringschef; 9 | regeringsråd; 14
+Rupertsbergklostret förstördes 1632 under trettioåriga kriget av svenska trupper .	under kriget; 4,6
+Kristna kyrkor i nordvästra Europa och Ukraina använde ofta pilkvistar i stället för palmer vid ceremonierna på palmsöndagen .	i stället för; 11,12,13
+Bilen slog ut i lågor , och Kenseth gick därifrån .	gick därifrån; 9,10
+De är vanligtvis artister som vill göra en massa saker .	en massa; 8,9
+Varje dikt återberättar bara en del av kriget .	återberättar; 3
+Winstone mötte sin fru Elaine medan han spelade in That Summer 1979 .	spelade in; 8,9
+Granskningen undersöker också uppviglande Facebook-meddelanden från september som påstås komma från poliser i staden i norra Ontario .	påstås komma; 9,10
+Allt eftersom Brisbane växte förvärrades flodens tillstånd tills när den som värst inte var mer än ett öppet avlopp och en soptipp .	tills när; 8,9 | den som värst; 10,11,12
+På danska kan ordet även tillämpas på grunda laguner .	tillämpas; 6 | grund lagun; 8,9
+Han byggde och renoverade även fem traditionella marknader 2013 och byggde renoverade fyra traditionella marknader 2014 .	None
+Trots allt är inte internet en lyx , det är ett oumbärligt verktyg .	oumbärligt; 12
+Samtidigt har den frånskilda frun till en av regeringens inpiskare lanserat sin kampanj för att ta platsen .	ta platsen; 16,17
+Samtidigt i mitten av 1970-talet bidrog Starlin med ett lager av historier till den självständigt publicerade science-fictionantologin Star Reach .	i mitten av; 2,3,4
+Under sin tid där mötte Kipling även , och blev förälskad i , Florence Garrard som steg ombord med Trix vid Southsea ( dit Trix hade återvänt ) .	förälskad i; 11,12 | steg ombord; 17,18
+Vi är så besvikna eftersom vi har tappat sex poäng när vi spelat hemma .	tappat poäng; 8,10
+Fyra andra ger de minsta och största deklinationerna för fullmånen : på sommaren och på vintern .	fullmånen; 10
+Det ryska imperiet var en anhopning av olika etniciteter som hade uppvisat betydande tecken på oenighet under åren före första världskriget .	anhopning; 6 | uppvisat; 12 | världskriget; 21
+I Europa hade de allierade före krigsutbrottet betydande övertag både vad gäller befolkning och ekonomi .	både ... och; 10,14 | vad gäller; 11,12
+Han arbetade på nyhets- och aktualitetssidan av radio och TV i årtionden .	årtionden; 12
+Kanske var klädkoden för stel .	None
+Donald Trump är en pompös , arrogant person som känner sig berättigad att få allt han vill och som bryr sig om sig själv , och hans temperament är skadligt för USA .	känner sig berättigad; 10,11,12 | bryr sig om; 20,21,22
+1912 grundades det första filmbolaget ( Athina Film ) och 1916 grundades Asty Film .	None
+Som det anges är beslutet ECB:s prerogativ och det skulle verka olämpligt för banken att uttala sig å dess vägnar genom att utesluta möjligheten att se på andra alternativ .	uttala sig; 16,17
+Detta är en fråga om inrikes säkerhet av det mest existentiella slaget .	inkommer inrikes säkerhet; 6,7 | det mest existentiella; 9,10,11 | slaget; 12
+Det är nu bara oklart i vilken .	None
+Många vetenskapsmän säger att teknologi för att avlägsna kol från luften nu kommer behövas för att möta målen från Paris .	för att; 6,7 | från luften; 10,11 | kommer behövas; 13,14 | för att möta målen; 15,16,17
+Den innehåller ett monument för Martin Luther King Jr .	None
+Jag hade inte sett flera avsnitt och så började min telefon tändas .	började tändas; 9,12
+Den sammanlagda prestationslönen och bonusen det året var 1,5 miljoner dollar , ungefär samma nivå som för 2015 – 2016 .	None
+Sonderingen började i juni , med fokus på Mr Winterkorn och märkeschef Herbert Diess , som ännu är kvar hos biltillverkaren .	märkeschef; 12
+Snarare än att lära ut vetenskaplig metod som ett separat moment , till exempel , lär sig eleverna vetenskapligt innehåll genom att tillämpa det .	lära ut; 4,5 | till exempel; 13,14 | lär sig; 16,17
+Och vad är då Australiens ståndpunkt ?	då; 4
+Tyvärr har en snabb befolkningstillväxt och stadsspridning täckt mycket av dessa ekosystem med bebyggelse .	befolkningstillväxt; 5 | stadsspridning; 7 | bebyggelse; 14
+Men ännu finns det frågor som inte är besvarade .	finns besvarade; 3,9
+Genom sin mormor var Mishima en direkt ättling till Tokugawa Ieyasu .	direktättling; 7,8
+Kanske är det anledningen till att tårar väller fram och grumlar hans pupiller medan tidens stavelse bringar hans skörd i dagen och släpper ifrån sig hans mysterium till det bundna vattnet .	väller fram; 8, 9
+Smartphonegenerationen fick en app den förtjänade där , i bästa fall , den mest idiotiska situation fick en publik på miljoner .	i bästa fall; 9,10,11
+Det har betonats att vi absolut inte kan fortsätta med de som är helt emot Italien .	fortsätta med; 9,10
+Det finns olika teorier om anledningarna att lämna platsen .	lämna platsen; 8,9
+Många personer , inklusive inhemska grupper , anser att de trivialiserar First Nations-kultur .	Nations-kultur; 13
+Ledarna för företag som Spotify , Tesla , Uber och Snapchat kommer att delta vid en privat tillställning utöver Mountain View Summit .	None
+Emellertid har vänskapen fallit isär på grund av inofficiella samarbeten mellan de båda , vilka gett upphov till juridiska dispyter .	fallit isär; 4,5 | på grund av; 6,7,8 | gett upphov; 16,17
+Katarina av Ryssland var också väldigt nöjd .	var nöjd; 4,7 | också; 5 | väldigt nöjd; 6,7
+Om de gjorde det skulle premieobligationer vara omöjliga att särskilja från vanliga sparkonton .	särskilja från; 10,11
+Fackförbundet Force Ouvrière beklagar att dess anmärkningar på guidens innehåll inte inkluderades : ” Det var egentligen inte någon överläggning , ” sade Ms. Gillard .	None
+Du måste stå emot det och jag skulle hellre ha någon som sprang mot mig än runt mig .	stå emot; 3,4
+Deras första kung var Mojmír I ( härskade 830–846 ) .	Deras första kung; 1,2,3 | var Mojmír I; 4,5,6 | (härskade 830–846); 7,8,9
+För alla som vill se huvudstaden i all dess prakt är november ett utmärkt tillfälle att åka .	i all prakt; 7,8,10
+Tillbaka i Lahore förekom runt trettionio historier i Gazzete mellan november 1886 och juni 1887 .	runt trettionio; 5,6
+Microsoft tillkännagav i onsdags ett nytt arbetsplatschattverktyg som står redo att ta sig an branschälsklingen Slack .	ta sig an; 12,13,14
+Den multietniska akamenidiska armén innehöll många soldater från Balkan .	None
+Å andra sidan innehåller utomstående historia hänvisningar till spansktalandes historia , deras historiska förändringar och den sociala användningen av språket .	på andra sidan; 2,3 | utomstående; 5 | spansktalandes; 9
+De rådfrågade källorna har sagt att det är ” 100 % Cospedal ” .	100 %; 10,11
+Syftet med dessa CRTC-utfrågningar är att föra fram svar från andelsägare inom industri och allmänheten .	föra fram; 7,8
+Catalano flyttade tillbaka till området efter att han bott i London och sedan Glasgow , där han hade studerat smyckesdesign vid Glasgow School of Art .	bott i; 9,10
+Men Cottons mörka dåd uppstod inte på grund av någon sorts tvång att döda .	på grund av; 7,8,9
+Jag utfrågades av poliserna , på deras oefterhärmligt dumma sätt , om jag kände författaren Günter de Bruyn och huruvida vi är intellektuellt besläktade .	intellektuellt besläktade; 23,24
+Det är fantastiskt att de fick Parisavtalet men deras insatser är för tillfället inte i närheten av målet på 1,5 grader .	för tillfället; 12,13 | i närheten; 15,16
+Detta har att göra med en av de få byggnaderna i stadskärnan som undgick förstörelse vid slutet av Andra världskriget .	att göra med; 3,4,5 | vid slutet av; 16,17,18
+Tisdagen handlar helt om att få ut rösterna , men det betyder inget om en röstningsregistrerad person inte finns på listan .	få ut; 6,7
+Under familjens tid i Kentucky och Indiana arbetade Thomas Lincoln som bonde , skåpbyggare och snickare .	skåpbyggare; 14
+" I januari 2011 började Blunt spela in en amerikansk science-fictionfilm , Looper , i regi av Rian Johnson med motspelarna Bruce Willis och Joseph Gordon-Levitt ; filmen kom ut i september 2012 . "	spela in; 6,7 | kom ut; 28,29
+Idag är kanske Khanzir en ensam gris , men han är inte alltid ensam .	ensam gris; 5,6
+Hennes album Wild West från 1981 var ett av hennes mest säljande .	var ett av; 7,8,9 | mest säljande; 11,12
+Det var här de stal en liten kanot som lämnats av de australiensiska aboriginerna i regionen .	länas av; 10,11
+” Superhjältar är utanför den mänskliga erfarenheten och det är det här med , så jag behandlade det som ett drama ” , säger Zimmer .	här med; 12,13 | så behandlade det; 15,17,18 | säger Zimmer; 24,25
+En stor rapport i januari sade att haven skulle innehålla mer plast än fisk år 2050 om inte världen vidtog radikala åtgärder för att hindra att skräp läcker ut i haven .	vidtog åtgärder; 20,22 | läcker ut; 28,29
+Och vad är det med partierna i vad , i historiska rättigheter ?	i vad; 7,8
+Mycket av debatten , från Demokraternas sida i år , har handlat om vit manlig identitet .	från sida; 5,7 | i år; 9 | handlat om; 12,13
+Sammankomsten var ursprungligen planerad till Washingtons privata Metropolitan Club på H Street några kvarter bort .	några kvarter bort; 13,14,15
+Undersökningar och expeditioner till ön fortsätter .	Undersökningar och expeditioner; 1,2,3
+Arkitektur hjälper inte avlidna människor , men den hjälper till att hålla minnet av dem vid liv hos de levande , säger han .	hjälper till; 9,10 | hålla vid liv; 12,16,17
+Kungen vidtog inga särskilda försiktighetsåtgärder under sin flykt och blev igenkänd flera gånger vid sina anhalter .	None
+Alperna ger de europeiska låglanden dricksvatten , bevattning och hydroelektrisk ström .	ger dricksvatten; 2,6 | hydroelektrisk ström; 10,11
+Bananer och pisanger , vilka först kultiverades i Sydostasien , mest troligt Papua Nya Guinea , återkultiverades i Afrika möjligen så tidigt som för 5 000 år sedan .	först kultiverades; 6,7 | återkultiverades; 17 | så tidigt som; 21,22,23 | för 5 000 år sedan; 24,25,26,27
+Det var definitivt fallet för Andy när han spelade mot Benoît Paire i Monte Carlo i april .	definitivt fallet; 3,4 | spelade mot; 9,10 | i april; 16,17
+Norman är en av mina bra kompisar , så det sög fullständigt att se honom i det känsloläget .	känsloläget; 18
+Förra året var ett otroligt år och jag är redo för att vi kommer tillbaka ännu bättre 2017 .	kommer tillbaka; 14,15 | för att; 11,12
+Men en undersökning visade att tumören i Ms Pughs högra lunga växer och hon har varit tvungen att lämna försöket .	varit tvungen; 16,17
+Hennes senaste icke-skönlitterära är om Margaret Douglas , grevinna av Lennox .	grevinna av; 9,10
+Arabrevolten som började 1916 vände förloppet mot osmanerna på mellanösternfronten , där de inledningsvis verkade ha överhanden under de två första åren av kriget .	inledningsvis; 14 | ha överhanden; 16,17 | under de två första åren; 18,19,20,21,22 | av kriget; 23,24
+Det förutsades att han antingen skulle dö av hög ålder efter ett händelsefattigt liv , eller dö ung på ett slagfält och få odödlighet genom poesi .	dö av; 7,8 | få odödlighet; 23,24
+Men de kan åtminstone gillra fällor för att förvirra och avskräcka – ett koncept känt som ” aktivt försvar ” .	gillra fällor; 5,6 | aktivt försvar; 18,19
+Kapstadens lokala styre är City of Cape Town , vilket är en stadskommun .	City of Cape Town; 5,6,7,8 | stadskommun; 13
+Det är för att varje mirakel och varje specialiserat distrikt tar upp ett helt fält .	tar upp; 11,12
+Det kinesiska nyåret och andra högtider som uppmärksammas av thailändska kineser varierar i förhållande till båda , då dessa beräknas enligt den kinesiska kalendern .	i förhållande till; 13,14,15
+För tillfället har överenskommelsen mellan Aoun och Hariri fört de två fiendefaktionerna närmare tillsammans .	fört ... tillsammans; 9,14
+Ett exempel på väderkontroll nyligen var Kinas förberedelser inför de olympiska spelen sommaren 2008 .	inför de olympiska spelen; 9,10,11,12
+Expeditionen leddes av general Joseph Burgoyne som avsåg att nå Albany .	avsåg att nå; 8,9,10
+Löftet om nya beställningar från Royal Navy för att säkra Clydes varvsindustri gavs före den skotska folkomröstningen om självständighet 2014 .	för att; 8,9
+Från 1500-talet identifierade européer som besökte den karibiska regionen det ” Södra havet ” ( Stilla havet , söder om Panamanäset ) i motsats till det ” Norra havet ” ( Karibiska havet , norr om samma näs ) .	i motsats till; 23,24,25
+Åskstormar är sällsynta , då staden rapporterar åska bara sju dagar per år .	Åskstormar; 1
+Två mäter längden på månens månader .	månens månader; 5,6
+Den genomfördes just utanför den mexikanska kusten mellan april och juni .	just utanför; 3,4 | mellan april och juni; 8,9,10,11
+Båda studenter till Goffredo Petrassi , träffades Ennio Morricone och Bruno Nicolai vid Santa Cecelia-konservatoriet .	träffades; 7
+Louis Post Dispatch kallade den för ett av LaBeoufs bästa framträdanden .	Post Dispatch; 2,3 | ett av; 7,8 | bästa framträdanden; 10,11
+Systemet var enkelt , direkt , och fungerade väl , även med tidigare otränade piloter .	otränade; 14
+En svensk studie har visat att djur sällan , om alls , landar efter den 2 månader långa parningsperioden .	om alla; 10,11
+Jin Ping Mei , utgiven 1610 , markerar , fastän den innehåller tidigare material , trenden mot självständig sammansättning och intresse för psykologi .	sammansättning; 19
+De Gaulle hade gett instruktioner om att det inte skulle förekomma några överdrivna uppvisningar av allmän tillgivenhet mot Churchill och inte några officiella utmärkelser utan hans föregående godkännande .	uppvisningar av allmän tillgivenhet; 14,15,16,17
+Inte alla kan lösgöra sig från det .	lösgöra sig; 3,4
+Vid inledningen av Londonkonferensen i december 1912 förkastade ambassadörerna för alla sex av stormakterna planen för att etablera ett självständigt Albanien .	Vid inledningen av; 1,2,3 | för alla sex av; 10,11,12,13 | etablera ett självständigt; 18,19,20
+Det är inte vad vi behöver i vårt land , gott folk .	gott folk; 11,12
+I färg visar löven en stor variation av grönt som löper från gulaktig till blåaktig .	None
+I morse mötte Påve Franciskus Mark Zuckerberg och hans fru vid Casa Santa Marta .	Casa Santa Marta; 12,13,14
+Han regerade bara i femton år , vilket det finns bevis för i den ofullständiga naturen hos många av hans byggnadsverk .	bara i år; 3,4,6 | bevis för; 11,12 | den ofullständiga naturen; 14,15,16 | många av; 18,19 | byggnadsverk; 21
+Miami Bass producenter var kliniska i konsten att förflytta rumpor – deras främsta intresse .	konsten att; 7,8
+Högre andel av pojkarna som skrivs in vid fortsättningsskola , inkomst per capita och ekonomisk tillväxt hade alla betydande effekt på att minska risken för inbördeskrig .	skrivs in; 6,7 | inkomst per capita; 11,12,13 | minska risken; 23,24 | inbördeskrig; 26
+Adnan Z. Amin , generaldirektör för den Internationella organisationen för förnyelsebara energier ( IRENA ) , är säker : ” Vindkraft till havs kan bli den största energikällan i en global ekonomi som är fri från kolbaserad energi . ”	till havs; 22,23 | fri från; 35,36
+Detta upprättande var den grundande handlingen för romersk lag , den romerska republikens institutioner och mos maiorum .	mos maiorum; 15,16
+Lagen beskriver ett antal villkor vars uppfyllelse kan få överenskommelsen att gälla igen : USA skulle behöva dra tillbaka alla sina trupper från länder som gått med i NATO efter 2000 , upphäva alla sanktioner mot Ryssland samt ersätta de kostnader som har uppkommit som en följd av sanktionerna .	dra tillbaka; 18,19 | gå med i; 26,27,28 | uppkommit som en följjd av; 44,45,46,47,48
+Fyra studenter vid Roma Tre University har utvecklat en motorcykelhjälm som kan ” läsa tankar ” genom att hjälpa till att förutse förares handlingar .	läsa tankar; 14,15 | hjälpa till; 19,20
+Fler och fler teknikföretag styr dagordningen mer än någonsin förut på Wall Street , till och med mer än i Silicon Valley .	till och med; 15,16,17
+I Thailand har dock urbaniseringen också resulterat i massiva ökningar av problem som fetma .	har resulterat i; 3,7,8 | massiva ökningar; 9,10 | problem som; 12,13
+Dammstormar börjar i öknarnas utkanter snarare än i själva öknarna där de finare materialen redan har blåsts bort .	snarare än; 6,7 | har blåsts bort; 16,17,18
+Efter ryska revolutionen 1917 vann några länder , såsom Finland , Polen och de baltiska staterna , sin självständighet .	vann sin självständighet; 5,18,19
+De australiensiska experterna drog nya slutsatser av undersökningen av en vingklaff från Boeing som hade spolats upp i Tanzania i östra Afrika .	dra slutsatser; 4,6 | spolas upp; 16,17
+Förklaringar av musikens ursprung beror på hur musik definieras .	beror på; 5,6
+I Kina stoppas håret vanligtvis i ett kemiskt bad för att ta bort kutikulan helt och hållet , förklarar Tarlo .	helt och hållet; 15,16,17
+May har fått stor kritik för att ha undvikit och inte svarat öppet till media efter rättsutlåtandet om Brexit .	fått kritik; 3,5
+Frågan kanske inte är över för Barroso .	över för; 5,6
+I maj sköt tjeckiska gränsvakter två sudettyska bönder som försökte korsa gränsen in i Tjeckoslovakien utan att stanna för gränskontroller .	None
+Maken till den nuvarande kandidaten till Vita huset , Hillary Clinton , benådade ett antal personer , även inräknat Rich , den sista dagen för sitt presidentskap , 20 januari 2001 .	till Vita huset; 2,7,8 | presidentskap; 27
+Försvarsministern har tillåtit henne att stanna kvar som generalsekreterare för partiet för tillfället .	stanna kvar; 6,7 | för tillfället; 12,13
+Han kunde upptäcka effekterna av valet runt om honom , i de utbrott av konflikter och de underliga skärningspunkter som nya idéer bildade med gamla .	runt om; 7,8
+Emellertid blev de genskjutna och tvingades till strid i Freeman , nära Hudsonfloden .	till strid; 7,8
+Det är delen från denna andra gräns upp till den yttre gränsen , den imaginära linje som förbinder fyrlandmärket vid Punta del Este med fyrlandmärket vid Punta Rasa .	från upp till; 4,8,9
+Klimatet är så torrt att dessa slätter ibland anses vara en del av Sahara .	anses vara; 9,10 | en del av; 11,12,13
+Caesar informerades personligen om Pompejus handlingar av Curio , som vid den tiden hade fullgjort sin ämbetsperiod .	fullgjort; 15
+Winstone försattes i konkurs den 4 oktober 1988 och igen den 19 mars 1993 .	försattes i konkurs; 2,3,4
+För inte så länge sedan skilde han sig från skådespelerskan , Gloria Holden , men var fortsatt kär efter det äktenskapliga uppbrottet .	inte så länge sedan; 1,2,3,4,5 | skilda sig; 5,7 | skilde sig från; 5,7,8 | var kär; 15,17 | äktenskapliga uppbrottet; 20,21
+I städerna där vi lanserat oss eller är under uppbyggnad kommer vårt arbete att fortsätta , sade Barratt .	lanserat oss; 5,6 | under uppbyggnad; 9,10
+Traditionen säger att temat valdes medvetet på grund av det stora antal konverterade judar som bodde i Palma .	på grund av; 7,8,9
+Vega föreslog att många , på grund av sin ålder , skulle vara omedvetna om dess historia .	på grund av; 6,7,8
+Lamarr följde med Mandl till affärsmöten där han konfererade med vetenskapsmän och andra yrkespersoner med inblandning i militärteknik .	None
+Utanför Japan , med början med kejsar Shōwa , har kejsarna ofta omtalats med sina förnamn , både medan de lever och postumt .	med början med; 4,5,6
+Emellertid provocerade söndringen mellan honom och Linares och avbrottet för den progressiva inriktningen fram rättfärdiganderevolutionen som störtade honom 1879 .	avbrottet; 9 | rättfärdiganderevolutionen; 15
+Dess polisstyrka innefattar en specialenhet som använder patrull och övervakningsbåtar .	None
+10-veckorskursen har ” certifierats ” av brittiska spionmyndigheten GCHQ .	har certifierats; 2,4 | av spionmyndigheten; 6,8
+Den diskuterar särskilt i flera passager de socialt och kulturellt degenerativa effekter krig har på själva mänskligheten .	degenerativa effekter; 11,12
+De utträngda nunnorna förflyttades till Eibingenklostret .	None
+Hon mötte härnäst den regerande mästaren och toppseedade Sara Errani , men blev besegrad .	härnäst; 3 | blev besegrad; 13,14
+Inte längre en tillbakablick till sjuttiotalet : flock – eller att täcka en yta med material – är inne igen .	tillbakablick; 3 | flock är inne; 7, 17, 18 | är inne igen; 17, 18, 19
+Resultatet sedan är knappast något kalas .	knappast något; 4,5
+Ursprunget för ordet Hispania är mycket omstritt och bevisen för de olika spekulationerna baseras enbart på vad som i bästa fall är rena likheter , troligtvis slumpmässiga , och tveksamma stödjebevis .	i bästa fall; 19,20,21 | stödjebevis; 31
+Under romaniseringens första steg delades halvön i två delar av romarna i administrativa syften .	delades i två delar; 5,7,8,9
+Hos människor är både hanar och honor ivriga sångare och att skapa musik är främst en gemensam aktivitet .	ivriga sångare; 8,9
+Vid de olympiska spelen 2004 i Aten jagade Ulrich , som vinnare av landsvägsloppet , målet att vinna sin andra guldmedalj .	vinnare av; 12,13
+Företaget berättade för BBC att det skulle vara varje flygbolags ansvar att besluta om att debitera passagerarna en åtkomstavgift .	att besluta om; 12,13,14
+Thailändares gynnsamma färger för dagen ges i tabellen över veckodagar , som följs av kopplingar till bilder på Buddha för varje dag i veckan .	för dagen; 4,5 | varje dag; 21,22 | i veckan; 23,24
+Med råd från Alexander lyckades han utarbeta en kompromiss : han skulle läsa vid universitet men skulle studera litteratur .	utarbeta; 7 | läsa vid universitet; 13,14,15
+Grundad 1925 som spel för vem som helst drar utomhusteatern på de stora trapporna framför St. Michael fortfarande en blandad publik .	vem som helst; 6,7,8 | drar på; 9,11
+Lord Halifax , Lord President of the Council , besökte Tyskland privat i november och träffade Hitler och andra tyska befattningshavare .	None
+Några kristna forskare kritiserar Tolles läror medan andra hyllar dem .	hyllar dem; 9,10
+Enligt programmet kommer hon att tala 23:45 .	Enligt programmet; 1,2 | kommer att tala; 3,5,6 | 23:45; 7
+Den äldsta kända historiska hänvisningen till staden hittas på en inskription över erövrade platser vid Thutmosis tempel vid Karnak .	hänvisningen till staden; 5,6,7 | erövrade platser; 13,14
+Och , såklart , så har vi Bob , en ständig källa till underhållning .	såklart; 3
+I augusti 1969 tog påve Paulus VI bort dödstraffet ur vatikansk lag och drog tillbaka det för alla lagöverträdelser .	tog bort; 4,8 | drog tillbaka; 14,15
+Tidigare i år gavs Seagal serbiskt medborgarskap efter att ha erbjudit att starta en kampsportsskola i huvudstaden Belgrad .	gavs medborgarskap; 4,7 | att ha erbjudit; 9,10,11
+Tillbaka på tåget fortsätter vi söderut .	Tillbaka på tåget; 1,2,3
+Han tror att ingen som väntar på oss väntar på oss .	väntar på oss; 6,7,8
+De två målningarna av Lucas Cranach den äldre som ställs ut är särskilt iögonfallande .	ställs ut; 10,11
+Fungerar serie två så här långt ?	så här; 4,5
+Om hans demokratiske motståndare skulle väljas försäkrade han att hon skulle vara ” under utredning i åratal ” .	under utredning i åratal; 13,14,15,16

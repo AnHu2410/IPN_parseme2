@@ -2238,8 +2238,8 @@
 
 # source_sent_id = http://hdl.handle.net/11372/LRT-5822 SELEXINI/bigscience_UD/wikipedia_00006_18.conllu 52741_3
 # text = Petit-fils d'émigrants tchèque et slovaque, établis dans la région de Chicago (Illinois) avant la Première Guerre mondiale, Eugene Cernan naît dans cette ville et grandit dans sa banlieue, à Maywood.
-1	Petit	petit	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No	*
-2	-fils	-fils	NOUN	_	Gender=Masc|Number=Sing	26	nsubj	_	_	*
+1	Petit	petit	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No	1:VID
+2	-fils	-fils	NOUN	_	Gender=Masc|Number=Sing	26	nsubj	_	_	1
 3	d'	de	ADP	_	_	4	case	_	SpaceAfter=No	*
 4	émigrants	émigrant	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_	*
 5	tchèque	tchèque	ADJ	_	Number=Sing	4	amod	_	_	*
